@@ -10,5 +10,6 @@ messages.po 为翻译后的中文包
 2、新建messages.po
 
 3、基于 po 文件生成 mo 文件
+
 msgfmt -o messages.mo messages.po
 
