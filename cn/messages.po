@@ -1,0 +1,5257 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-11-30 22:43:34\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"Last-Translator: Marcin Haba <marcin.haba@bacula.pl>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Language:"
+msgstr "语言:"
+
+msgid "select language"
+msgstr "选择语言"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Licence"
+msgstr "许可证"
+
+msgid "Database"
+msgstr "数据库"
+
+msgid "Authentication"
+msgstr "认证"
+
+msgid "Finish"
+msgstr "完成"
+
+msgid "Console"
+msgstr "命令行"
+
+msgid "Step 1 - select language"
+msgstr "第1步 - 选择语言"
+
+msgid "Please select language."
+msgstr "请选择语言。"
+
+msgid "Step 2 - add API instances"
+msgstr "第2步 - 添加API实例"
+
+msgid "Step 3 - params of Bacula database connection"
+msgstr "第3步 - Bacula数据库连接参数"
+
+msgid "Step 4 - Baculum access to bconsole"
+msgstr "第4步 - Baculum访问bconsole"
+
+msgid "Step 5 - authorization params to Baculum"
+msgstr "第5步 - Baculum授权参数"
+
+msgid "Step 6 - Finish"
+msgstr "第6步 - 完成"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "I have read the license terms and agree to"
+msgstr "我已阅读许可条款并同意"
+
+msgid "Database type:"
+msgstr "数据库类型："
+
+msgid "select database"
+msgstr "选择数据库"
+
+msgid "Need to move on to accept the license."
+msgstr "需要继续以接受许可。"
+
+msgid "Database name:"
+msgstr "数据库名称："
+
+msgid "Please select database type."
+msgstr "请选择数据库类型。"
+
+msgid "Please enter database name."
+msgstr "请输入数据库名称。"
+
+msgid "Login:"
+msgstr "登录名："
+
+msgid "Please enter login."
+msgstr "请输入登录名。"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "IP address (or hostname):"
+msgstr "IP地址（或主机名）："
+
+msgid "Please enter IP address or hostname."
+msgstr "请输入IP地址或主机名。"
+
+msgid "Port:"
+msgstr "端口："
+
+msgid "Please enter database port."
+msgstr "请输入数据库端口。"
+
+msgid "SQLite database path:"
+msgstr "SQLite数据库路径："
+
+msgid "Please enter database path."
+msgstr "请输入数据库路径。"
+
+msgid "Connection test:"
+msgstr "连接测试："
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Connection error"
+msgstr "连接错误"
+
+msgid "test"
+msgstr "测试"
+
+msgid "Bconsole binary file path:"
+msgstr "Bconsole二进制文件路径："
+
+msgid "Please enter bconsole path."
+msgstr "请输入bconsole路径。"
+
+msgid "Please enter bconsole config file path."
+msgstr "请输入bconsole配置文件路径。"
+
+msgid "Use sudo:"
+msgstr "使用sudo："
+
+msgid "Bconsole connection test:"
+msgstr "Bconsole连接测试："
+
+msgid "Administration login:"
+msgstr "管理员登录："
+
+msgid "Administration password:"
+msgstr "管理员密码："
+
+msgid "Please enter password."
+msgstr "请输入密码。"
+
+msgid "Password must be longer than 4 chars."
+msgstr "密码长度必须超过4个字符。"
+
+msgid "Retype administration password:"
+msgstr "重新输入管理员密码："
+
+msgid "Please enter retype password."
+msgstr "请重新输入密码。"
+
+msgid "Passwords must be the same."
+msgstr "两次输入的密码必须相同。"
+
+msgid "Database parameters"
+msgstr "数据库参数"
+
+msgid "Database port:"
+msgstr "数据库端口："
+
+msgid "Bconsole access"
+msgstr "Bconsole访问"
+
+msgid "Use sudo for bconsole requests:"
+msgstr "对bconsole请求使用sudo："
+
+msgid "Authorization to Baculum panel"
+msgstr "Baculum面板授权"
+
+msgid "Step 7 - Finish"
+msgstr "第7步 - 完成"
+
+msgid "Storage name:"
+msgstr "存储名称："
+
+msgid "Console status"
+msgstr "控制台状态"
+
+msgid "Drive number:"
+msgstr "驱动器编号："
+
+msgid "Slot number:"
+msgstr "插槽编号："
+
+msgid "Mount"
+msgstr "挂载"
+
+msgid "Release"
+msgstr "释放"
+
+msgid "Umount"
+msgstr "卸载"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Available actions"
+msgstr "可用操作"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Operation is in progress"
+msgstr "操作进行中"
+
+msgid "Volume status:"
+msgstr "卷状态："
+
+msgid "Pool:"
+msgstr "池："
+
+msgid "Recycle:"
+msgstr "回收："
+
+msgid "Enabled:"
+msgstr "已启用："
+
+msgid "In changer:"
+msgstr "在转换器中："
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Volume name:"
+msgstr "卷名称："
+
+msgid "Client name:"
+msgstr "客户端名称："
+
+msgid "Information about version"
+msgstr "版本信息"
+
+msgid "Pool name:"
+msgstr "池名称："
+
+msgid "Purge"
+msgstr "清除"
+
+msgid "Prune"
+msgstr "修剪"
+
+msgid "Switch the window view (normal/details)"
+msgstr "切换窗口视图（普通/详细）"
+
+msgid "Maximum volumes:"
+msgstr "最大卷数："
+
+msgid "AutoPrune:"
+msgstr "自动修剪："
+
+msgid "Action on purge:"
+msgstr "清除操作："
+
+msgid "Label format:"
+msgstr "标签格式："
+
+msgid "Scratch pool:"
+msgstr "暂存池："
+
+msgid "Recycle pool:"
+msgstr "回收池："
+
+msgid "Restore configuration"
+msgstr "恢复配置"
+
+msgid "Update volumes"
+msgstr "更新卷"
+
+msgid "Client:"
+msgstr "客户端："
+
+msgid "Job name:"
+msgstr "任务名称："
+
+msgid "Storage:"
+msgstr "存储："
+
+msgid "Level:"
+msgstr "级别："
+
+msgid "FileSet:"
+msgstr "文件集："
+
+msgid "Priority:"
+msgstr "优先级："
+
+msgid "Run job"
+msgstr "执行任务"
+
+msgid "Estimate job"
+msgstr "估算任务"
+
+msgid "Accurate:"
+msgstr "精确："
+
+msgid "Storage Daemons"
+msgstr "存储守护进程"
+
+msgid "Clients"
+msgstr "客户端"
+
+msgid "Volumes"
+msgstr "卷"
+
+msgid "Pools"
+msgstr "池"
+
+msgid "Jobs"
+msgstr "任务列表"
+
+msgid "Limit:"
+msgstr "限制："
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "View mode:"
+msgstr "查看模式："
+
+msgid "simple"
+msgstr "简单"
+
+msgid "details"
+msgstr "详细"
+
+msgid "Retention period value must be integer."
+msgstr "保留期限值必须是整数。"
+
+msgid "There is not possible to run selected action because:"
+msgstr "无法执行选定操作，因为："
+
+msgid "Drive number must be integer."
+msgstr "驱动器编号必须是整数。"
+
+msgid "Slot number must be integer."
+msgstr "槽号必须是整数。"
+
+msgid "File retention value must be integer."
+msgstr "文件保留值必须是整数。"
+
+msgid "Job retention value must be integer."
+msgstr "任务保留值必须是整数。"
+
+msgid "Vol. use duration value must be integer."
+msgstr "卷使用持续时间必须是整数。"
+
+msgid "Max. vol. jobs:"
+msgstr "最大卷任务："
+
+msgid "Max. vol. jobs value must be integer."
+msgstr "最大卷任务值必须是整数。"
+
+msgid "Max. vol. files:"
+msgstr "最大卷文件："
+
+msgid "Max. vol. files value must be integer."
+msgstr "最大卷文件值必须是整数。"
+
+msgid "Max. vol. bytes:"
+msgstr "最大卷大小："
+
+msgid "Max. vol. bytes value must be integer."
+msgstr "最大卷大小值必须是整数。"
+
+msgid "Slot value must be integer."
+msgstr "槽值必须是整数。"
+
+msgid "Max. volumes value must be integer."
+msgstr "最大卷数量值必须是整数。"
+
+msgid "Use duration value must be integer."
+msgstr "使用持续时间值必须是整数。"
+
+msgid "Label format value must not be empty."
+msgstr "标签格式值不能为空。"
+
+msgid "Priority value must be integer greater than 0."
+msgstr "优先级值必须大于0的整数。"
+
+msgid "File retention value must be positive integer or zero."
+msgstr "文件保留值必须是正整数或零。"
+
+msgid "Job retention value must be positive integer or zero."
+msgstr "任务保留值必须是正整数或零。"
+
+msgid "File retention (in days):"
+msgstr "文件保留（天）："
+
+msgid "Job retention (in days):"
+msgstr "任务保留（天）："
+
+msgid "select pool"
+msgstr "选择池"
+
+msgid "Retention period (in hours):"
+msgstr "保留期（小时）："
+
+msgid "Vol. use duration (in hours):"
+msgstr "卷使用持续时间（小时）："
+
+msgid "Job to restore:"
+msgstr "要恢复的任务："
+
+msgid "Backup from client:"
+msgstr "来自客户端的备份："
+
+msgid "Restore to client:"
+msgstr "恢复到客户端："
+
+msgid "Backup to restore:"
+msgstr "要恢复的备份："
+
+msgid "Step 1 - select source backup client"
+msgstr "第1步 - 选择源备份客户端"
+
+msgid "Client"
+msgstr "客户端"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "Step 2 - select backup to restore"
+msgstr "第2步 - 选择要恢复的备份"
+
+msgid "Backup selection method:"
+msgstr "备份选择方法："
+
+msgid "Selected backup"
+msgstr "已选备份"
+
+msgid "FileSet resource:"
+msgstr "文件集资源："
+
+msgid "Storage resource:"
+msgstr "存储资源："
+
+msgid "Pool resource:"
+msgstr "池资源："
+
+msgid "Step 3 - select files to restore"
+msgstr "第3步 - 选择要恢复的文件"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "To see file versions please click a file on the left files browser."
+msgstr "要查看文件版本，请在左侧文件浏览器中点击文件。"
+
+msgid "To add a file to restore please click 'Add' link or please drag here the file from the top frame or from the frame on the left."
+msgstr "要添加要恢复的文件，请点击“添加”链接或从顶部框架或左侧框架中拖动文件到这里。"
+
+msgid "It seems that there is no files for choosing or file records in database for this job has been purged (file retention period expired)"
+msgstr "似乎没有可选文件，或此任务的文件记录已从数据库中清除（文件保留期已过期）"
+
+msgid "Group most recent backups"
+msgstr "分组最近的备份"
+
+msgid "Where"
+msgstr "位置"
+
+msgid "Restore to directory:"
+msgstr "恢复到目录："
+
+msgid "Step 4 - select destination for restore"
+msgstr "第4步 - 选择恢复目的地"
+
+msgid "Step 5 - options for restore"
+msgstr "第5步 - 恢复选项"
+
+msgid "Replace files:"
+msgstr "替换文件："
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Restore job priority:"
+msgstr "恢复任务优先级："
+
+msgid "do not replace files"
+msgstr "不替换文件"
+
+msgid "if files from restore are older"
+msgstr "如果恢复的文件较旧"
+
+msgid "if files from restore are newer"
+msgstr "如果恢复的文件较新"
+
+msgid "always replace files"
+msgstr "始终替换文件"
+
+msgid "Source parameters"
+msgstr "源参数"
+
+msgid "Backup data from client:"
+msgstr "来自客户端的备份数据："
+
+msgid "FileSet to restore:"
+msgstr "要恢复的文件集："
+
+msgid "Files for restore"
+msgstr "要恢复的文件"
+
+msgid "Selected files count:"
+msgstr "选定文件数："
+
+msgid "Destination parameters"
+msgstr "目的地参数"
+
+msgid "Restore to path:"
+msgstr "恢复到路径："
+
+msgid "Restore job options"
+msgstr "恢复任务选项"
+
+msgid "Run restore"
+msgstr "执行恢复"
+
+msgid "Run"
+msgstr "运行"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "There is no backup for restore. Please go to previous step and select another client for restore or proceed backups for the client selected in previous step."
+msgstr "没有可用于恢复的备份。请返回上一步并选择另一个客户端进行恢复，或继续为所选客户端进行备份。"
+
+msgid "Database file path (SQLite only):"
+msgstr "数据库文件路径（仅限SQLite）："
+
+msgid "Selected directories count:"
+msgstr "选定目录数："
+
+msgid "Delete job"
+msgstr "删除任务"
+
+msgid "Cancel job"
+msgstr "取消任务"
+
+msgid "NOTE!"
+msgstr "注意！"
+
+msgid "Baculum needs access to bconsole by the web server."
+msgstr "Baculum需要通过Web服务器访问bconsole。"
+
+msgid "Director:"
+msgstr "主控端："
+
+msgid "Jobs for run"
+msgstr "待运行任务"
+
+msgid "Run job again"
+msgstr "再次运行任务"
+
+msgid "Job status"
+msgstr "任务状态"
+
+msgid "Bacula console"
+msgstr "Bacula控制台"
+
+msgid "show console"
+msgstr "显示控制台"
+
+msgid "hide console"
+msgstr "隐藏控制台"
+
+msgid "volumes tools"
+msgstr "卷工具"
+
+msgid "Label volume(s)"
+msgstr "标记卷"
+
+msgid "Update slots using barcodes"
+msgstr "使用条形码更新槽位"
+
+msgid "Update slots without barcodes"
+msgstr "无条形码更新槽位"
+
+msgid "Label name:"
+msgstr "标签名称："
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Use barcodes as label:"
+msgstr "使用条形码作为标签："
+
+msgid "Update barcodes slots"
+msgstr "更新条形码槽位"
+
+msgid "Update slots scan"
+msgstr "更新槽位扫描"
+
+msgid "Label name have to contain string value from set [0-9a-zA-Z_-]."
+msgstr "标签名称必须包含来自集合[0-9a-zA-Z_-]的字符串值。"
+
+msgid "Slots for label have to contain string value from set [0-9-,]."
+msgstr "标签的槽位必须包含来自集合[0-9-,]的字符串值。"
+
+msgid "Drive has to contain digit value from set [0-9]."
+msgstr "驱动器必须包含来自集合[0-9]的数字值。"
+
+msgid "Slots for update have to contain string value from set [0-9-,]."
+msgstr "更新的槽位必须包含来自集合[0-9-,]的字符串值。"
+
+msgid "or run"
+msgstr "或运行"
+
+msgid "Bacularis Initial Wizard"
+msgstr "Bacularis初始向导"
+
+msgid "internal Baculum error."
+msgstr "内部Baculum错误。"
+
+msgid "TRY AGAIN"
+msgstr "再试一次"
+
+msgid "Enable debug"
+msgstr "启用调试"
+
+msgid "clear bvfs cache"
+msgstr "清除bvfs缓存"
+
+msgid "Bconsole admin config file path:"
+msgstr "Bconsole管理员配置文件路径："
+
+msgid "Bconsole custom config file path:"
+msgstr "Bconsole自定义配置文件路径："
+
+msgid "Please enter bconsole custom config file path."
+msgstr "请输入bconsole自定义配置文件路径。"
+
+msgid "For need defining more Baculum users with custom access or restricted console access (Bconsole ACLs) here is possible to determine custom bconsole configuration file format for each user."
+msgstr "为了定义更多具有自定义访问权限或受限控制台访问权限（Bconsole ACLs）的Baculum用户，可以为每个用户确定自定义bconsole配置文件格式。"
+
+msgid "If there is used only one Baculum user then below field value will be ignored"
+msgstr "如果只使用了一个Baculum用户，则以下字段值将被忽略"
+
+msgid "{user} keyword will be replaced for each logged user into according username."
+msgstr "{user}关键字将被替换为每个已登录用户的相应用户名。"
+
+msgid "If there is used only one Baculum user then below field value will be ignored."
+msgstr "如果只使用了一个Baculum用户，则以下字段值将被忽略。"
+
+msgid "Above administration login and administration password will be used for login as administrator to Baculum WebGUI. They are your HTTP Basic authorization params by using which you will be logged in to Baculum."
+msgstr "上述管理员登录名和管理员密码将用于以管理员身份登录到Baculum WebGUI。它们是您用于登录到Baculum的HTTP基本授权参数。"
+
+msgid "If all above steps will not help or if during installation you made mistake in password in Initial Wizard, please remove settings file located in baculum/protected/Data/settings.conf and re-run Initial wizard."
+msgstr "如果所有上述步骤都无法帮助，或者在安装过程中您在初始向导中输入了错误的密码，请删除位于baculum/protected/Data/settings.conf中的设置文件并重新运行初始向导。"
+
+msgid "Action:"
+msgstr "操作："
+
+msgid "unmark all and close"
+msgstr "取消所有标记并关闭"
+
+msgid "This action will clear bvfs cache that was created during preparing restore files. There is not recommended use this action during restore job working. Are you sure?"
+msgstr "此操作将清除在准备恢复文件期间创建的bvfs缓存。不建议在恢复任务进行期间使用此操作。您确定吗？"
+
+msgid "Debug files enable possibility to save most of actions executed on Bacularis WebGUI. Debug functionality should be enabled if there is happening something wrong with Bacularis or if something that looks like a bug. Logs can be useful for detecting a problems in Bacularis working. After confirmation this message Bacularis debug files will be continuously saving in /protected/Web/Logs/ directory. Are you sure?"
+msgstr "调试文件启用在Bacularis WebGUI上执行的大多数操作的保存可能性。如果Bacularis出现问题或某些看起来像是错误的情况，应启用调试功能。日志对于检测Bacularis工作中的问题可能很有用。确认此消息后，Bacularis调试文件将持续保存在/protected/Web/Logs/目录中。您确定吗？"
+
+msgid "10 elements"
+msgstr "10个元素"
+
+msgid "25 elements"
+msgstr "25个元素"
+
+msgid "50 elements"
+msgstr "50个元素"
+
+msgid "100 elements"
+msgstr "100个元素"
+
+msgid "200 elements"
+msgstr "200个元素"
+
+msgid "500 elements"
+msgstr "500个元素"
+
+msgid "unlimited"
+msgstr "无限"
+
+msgid "1000 elements"
+msgstr "1000个元素"
+
+msgid "Volume name"
+msgstr "卷名"
+
+msgid "Slot"
+msgstr "槽位"
+
+msgid "Pool"
+msgstr "池"
+
+msgid "When expire"
+msgstr "何时过期"
+
+msgid "Storage name"
+msgstr "存储名称"
+
+msgid "Autochanger"
+msgstr "自动换带机"
+
+msgid "No"
+msgstr "否"
+
+msgid "days"
+msgstr "天"
+
+msgid "day"
+msgstr "天"
+
+msgid "Warning! You checked over 50 elements. Please note, that in case more time consuming actions, web browser request may timed out after 30 seconds. It this case action will be canceled and in consequence the action may not touch all selected elements. Are you sure you want to continue?"
+msgstr "警告！您选中了超过50个元素。请注意，对于更耗时的操作，网络浏览器请求可能会在30秒后超时。在这种情况下，操作将被取消，因此可能不会涉及到所有选中的元素。您确定要继续吗？"
+
+msgid "Close the window"
+msgstr "关闭窗口"
+
+msgid "Change the window size"
+msgstr "更改窗口大小"
+
+msgid "Configuration of storage daemons."
+msgstr "存储守护程序的配置。"
+
+msgid "Configuration of clients daemons."
+msgstr "客户端守护程序的配置。"
+
+msgid "Management of volumes."
+msgstr "卷的管理。"
+
+msgid "Management of volumes pools."
+msgstr "卷池的管理。"
+
+msgid "Jobs settings."
+msgstr "任务设置。"
+
+msgid "Starting jobs."
+msgstr "开始任务。"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Restore wizard."
+msgstr "恢复向导。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Management settings wizard."
+msgstr "管理设置向导。"
+
+msgid "Client name"
+msgstr "客户端名称"
+
+msgid "File Retention"
+msgstr "文件保留"
+
+msgid "Job Retention"
+msgstr "任务保留"
+
+msgid "Last written:"
+msgstr "最后写入："
+
+msgid "never written"
+msgstr "从未写入"
+
+msgid "When expire:"
+msgstr "何时过期："
+
+msgid "Job name"
+msgstr "任务名称"
+
+msgid "End time"
+msgstr "结束时间"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Level"
+msgstr "级别"
+
+msgid "Director"
+msgstr "主控端"
+
+msgid "Enter"
+msgstr "输入"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "select action"
+msgstr "选择操作"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Output for selected job is not available yet or you do not have enabled logging job logs to the catalog database.\n\nTo watch job log you need to add to the job Messages resource the following directive:\n\nCatalog = all, !debug, !skipped, !saved"
+msgstr "选定任务的输出尚不可用，或您尚未启用将任务日志记录到目录数据库的功能。\n\n要查看任务日志，您需要向任务消息资源添加以下指令：\n\nCatalog = all, !debug, !skipped, !saved"
+
+msgid "Workspace"
+msgstr "工作区"
+
+msgid "Graphs"
+msgstr "图表"
+
+msgid "select job"
+msgstr "选择任务"
+
+msgid "Last 6 hours"
+msgstr "最近6小时"
+
+msgid "Last 12 hours"
+msgstr "最近12小时"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Two days"
+msgstr "两天"
+
+msgid "Last week"
+msgstr "上周"
+
+msgid "Last two weeks"
+msgstr "最近两周"
+
+msgid "Last month"
+msgstr "上个月"
+
+msgid "Last three months"
+msgstr "最近三个月"
+
+msgid "Last six months"
+msgstr "最近六个月"
+
+msgid "Last year"
+msgstr "去年"
+
+msgid "Date From:"
+msgstr "日期从："
+
+msgid "Date To:"
+msgstr "日期至："
+
+msgid "Legend:"
+msgstr "图例："
+
+msgid "select client"
+msgstr "选择客户端"
+
+msgid "Job size / Time"
+msgstr "任务大小 / 时间"
+
+msgid "Job size"
+msgstr "任务大小"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "File retention (in sec.):"
+msgstr "文件保留时间（秒）："
+
+msgid "Job retention (in sec.):"
+msgstr "任务保留时间（秒）："
+
+msgid "Max. Vol. Bytes:"
+msgstr "最大卷大小数："
+
+msgid "Max. Vol. Files:"
+msgstr "最大卷文件数："
+
+msgid "Max. Vol. Jobs:"
+msgstr "最大卷任务数："
+
+msgid "Retention Period (in sec.):"
+msgstr "保留期（秒）："
+
+msgid "Storage Daemons."
+msgstr "存储守护进程。"
+
+msgid "Vol. Use Duration (in sec.):"
+msgstr "卷使用持续时间（秒）："
+
+msgid "Yes"
+msgstr "是"
+
+msgid "JobId to Verify:"
+msgstr "要验证的任务ID："
+
+msgid "JobId to Verify value must be integer greater than 0."
+msgstr "要验证的任务ID值必须是大于0的整数。"
+
+msgid "Job to Verify:"
+msgstr "要验证的任务："
+
+msgid "Verify by Job Name"
+msgstr "按任务名称验证"
+
+msgid "Verify by JobId"
+msgstr "按任务ID验证"
+
+msgid "Verify option:"
+msgstr "验证选项："
+
+msgid "Running jobs:"
+msgstr "正在运行的任务："
+
+msgid "Finished jobs:"
+msgstr "已完成的任务："
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Job:"
+msgstr "任务："
+
+msgid "Media Type"
+msgstr "媒体类型"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Go to started job after start:"
+msgstr "开始后前往已启动的任务："
+
+msgid "Job status summary"
+msgstr "任务状态摘要"
+
+msgid "Quick job access"
+msgstr "快速任务访问"
+
+msgid "Finished jobs"
+msgstr "已完成任务"
+
+msgid "The most often used:"
+msgstr "最常使用："
+
+msgid "Number of clients"
+msgstr "客户端数量"
+
+msgid "jobs"
+msgstr "任务"
+
+msgid "Job count the most used:"
+msgstr "使用最多的任务数量："
+
+msgid "level"
+msgstr "级别"
+
+msgid "status"
+msgstr "状态"
+
+msgid "Jump to job (last 100):"
+msgstr "跳转到任务（最后100个）："
+
+msgid "View"
+msgstr "查看"
+
+msgid "Total bytes:"
+msgstr "总字节："
+
+msgid "Total files:"
+msgstr "总文件："
+
+msgid "Database size:"
+msgstr "数据库大小："
+
+msgid "Number of pools:"
+msgstr "池的数量："
+
+msgid "times"
+msgstr "次数"
+
+msgid "Execution count most used:"
+msgstr "最常执行的次数："
+
+msgid "Total bytes"
+msgstr "已用容量"
+
+msgid "Restore Wizard"
+msgstr "恢复向导"
+
+msgid "Perform restore"
+msgstr "执行恢复"
+
+msgid "Configuration Wizard"
+msgstr "配置向导"
+
+msgid "Baculum Settings"
+msgstr "Baculum 设置"
+
+msgid "start time"
+msgstr "开始时间"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "User name"
+msgstr "用户名"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Remove user"
+msgstr "移除用户"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Normal user"
+msgstr "普通用户"
+
+msgid "Add new user"
+msgstr "添加新用户"
+
+msgid "Username:"
+msgstr "用户名："
+
+msgid "Invalid login value. Login may contain a-z A-Z 0-9 characters."
+msgstr "登录值无效。登录名可能包含a-z A-Z 0-9字符。"
+
+msgid "Jobs on volume"
+msgstr "卷上的任务"
+
+msgid "No jobs on the volume."
+msgstr "卷上没有任务。"
+
+msgid "Jobs for Client"
+msgstr "客户的任务"
+
+msgid "No jobs for the client."
+msgstr "客户没有任务。"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "bdirjson binary file path:"
+msgstr "bdirjson二进制文件路径："
+
+msgid "bsdjson binary file path:"
+msgstr "bsdjson二进制文件路径："
+
+msgid "bfdjson binary file path:"
+msgstr "bfdjson二进制文件路径："
+
+msgid "bbconsjson binary file path:"
+msgstr "bbconsjson二进制文件路径："
+
+msgid "Main Director config file path (usually bacula-dir.conf):"
+msgstr "主主控端配置文件路径（通常为bacula-dir.conf）："
+
+msgid "Main Storage Daemon config file path (usually bacula-sd.conf):"
+msgstr "主存储守护进程配置文件路径（通常为bacula-sd.conf）："
+
+msgid "Main File Daemon config file path (usually bacula-fd.conf):"
+msgstr "主文件守护进程配置文件路径（通常为bacula-fd.conf）："
+
+msgid "Admin Bconsole config file path (usually bconsole.conf):"
+msgstr "管理员Bconsole配置文件路径（通常为bconsole.conf）："
+
+msgid "Test configuration"
+msgstr "测试配置"
+
+msgid "General configuration"
+msgstr "常规配置"
+
+msgid "To setup configuration module please provide Bacula JSON tools paths and config files paths."
+msgstr "要设置配置模块，请提供Bacula JSON工具路径和配置文件路径。"
+
+msgid "Error during config save"
+msgstr "保存配置时出错"
+
+msgid "There is required to provide both binary file and config file paths."
+msgstr "需要提供二进制文件和配置文件的路径。"
+
+msgid "Directory path for new config files:"
+msgstr "新配置文件的目录路径："
+
+msgid "Directory path field is required."
+msgstr "目录路径字段是必需的。"
+
+msgid "Provided directory path is not writable by web server."
+msgstr "提供的目录路径不可被Web服务器写入。"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "Minutes"
+msgstr "分钟"
+
+msgid "Hours"
+msgstr "小时"
+
+msgid "Days"
+msgstr "天"
+
+msgid "Host:"
+msgstr "主机："
+
+msgid "IP Address/Hostname:"
+msgstr "IP 地址/主机名："
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Show/hide all directives"
+msgstr "显示/隐藏所有指令"
+
+msgid "Show the resource raw config"
+msgstr "显示资源原始配置"
+
+msgid "Save the resource on multiple hosts"
+msgstr "在多个主机上保存资源"
+
+msgid "Save the resource to additional path"
+msgstr "将资源保存到额外路径"
+
+msgid "Download the resource config"
+msgstr "下载资源配置"
+
+msgid "Add APIs"
+msgstr "添加APIs"
+
+msgid "Protocol:"
+msgstr "协议："
+
+msgid "API Address:"
+msgstr "API 地址："
+
+msgid "API Login:"
+msgstr "API 登录："
+
+msgid "API Password:"
+msgstr "API 密码："
+
+msgid "Please enter API address."
+msgstr "请输入API地址。"
+
+msgid "Please enter API port."
+msgstr "请输入API端口。"
+
+msgid "Please enter API login."
+msgstr "请输入API登录名。"
+
+msgid "Please enter API password."
+msgstr "请输入API密码。"
+
+msgid "Baculum web interface requires to add at least one Baculum API instance with shared Catalog access. Please add API instance."
+msgstr "Baculum网页界面要求至少添加一个具有共享目录访问权限的Baculum API实例。请添加API实例。"
+
+msgid "Save with name:"
+msgstr "保存为名称："
+
+msgid "API connection test:"
+msgstr "API连接测试："
+
+msgid "Catalog support"
+msgstr "目录支持"
+
+msgid "Console support"
+msgstr "控制台支持"
+
+msgid "Config support"
+msgstr "配置支持"
+
+msgid "Supported"
+msgstr "已支持"
+
+msgid "Not supported"
+msgstr "不支持"
+
+msgid "Step 3 - authentication params to Baculum Web panel"
+msgstr "第3步 - 到Baculum网页面板的认证参数"
+
+msgid "Step 4 - Finish"
+msgstr "第4步 - 完成"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "From month"
+msgstr "从月份"
+
+msgid "To month"
+msgstr "至月份"
+
+msgid "Month"
+msgstr "月份"
+
+msgid "From day"
+msgstr "从日"
+
+msgid "To day"
+msgstr "至日"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Day of week"
+msgstr "星期几"
+
+msgid "From day of week"
+msgstr "从星期几开始"
+
+msgid "To day of week"
+msgstr "至星期几"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "From week"
+msgstr "从周"
+
+msgid "To week"
+msgstr "至周"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Add new %resource_type resource on %component_name (%component_type)"
+msgstr "在%component_name（%component_type）上添加新的%resource_type资源"
+
+msgid "Reset to default value"
+msgstr "重置为默认值"
+
+msgid "Remove directive"
+msgstr "移除指令"
+
+msgid "Add API host"
+msgstr "添加API主机"
+
+msgid "Add host"
+msgstr "添加主机"
+
+msgid "Given host already exists in config file."
+msgstr "给定的主机已在配置文件中存在。"
+
+msgid "Problem during save to config file. Please check host config file permission."
+msgstr "保存到配置文件时出现问题。请检查主机配置文件权限。"
+
+msgid "Host added successfully."
+msgstr "主机添加成功。"
+
+msgid "Save as:"
+msgstr "另存为："
+
+msgid "(optional)"
+msgstr "（可选）"
+
+msgid "Use HTTP Basic authentication"
+msgstr "使用HTTP基本认证"
+
+msgid "Use OAuth2 for authorization and authentication"
+msgstr "使用OAuth2进行授权和认证"
+
+msgid "Invalid Client ID value. Client ID may contain a-z A-Z 0-9 - _ characters."
+msgstr "无效的客户端ID值。客户端ID可能包含a-z A-Z 0-9 - _字符。"
+
+msgid "Please enter Client ID."
+msgstr "请输入客户端ID。"
+
+msgid "OAuth2 Client ID:"
+msgstr "OAuth2客户端ID："
+
+msgid "OAuth2 Client Secret:"
+msgstr "OAuth2客户端密钥："
+
+msgid "Please enter Client Secret."
+msgstr "请输入客户端密钥。"
+
+msgid "Invalid Client Secret value. Client Secret may contain any character that is not a whitespace character."
+msgstr "无效的客户端密钥值。客户端密钥可以包含任何非空白字符。"
+
+msgid "generate"
+msgstr "生成"
+
+msgid "Dedicated Bconsole config file path:"
+msgstr "专用Bconsole配置文件路径："
+
+msgid "Please enter Redirect URI."
+msgstr "请输入重定向URI。"
+
+msgid "OAuth2 Redirect URI (example: https://bacularis:9097/web/redirect):"
+msgstr "OAuth2重定向URI（示例：https://bacularis:9097/web/redirect）："
+
+msgid "OAuth2 scopes (space separated):"
+msgstr "OAuth2作用域（空格分隔）："
+
+msgid "Please enter OAuth2 scopes."
+msgstr "请输入OAuth2作用域。"
+
+msgid "Auth Type:"
+msgstr "认证类型："
+
+msgid "OAuth2 Redirect URI:"
+msgstr "OAuth2 重定向 URI："
+
+msgid "OAuth2 Scope:"
+msgstr "OAuth2 范围："
+
+msgid "Restore job:"
+msgstr "恢复任务："
+
+msgid "API host"
+msgstr "API 主机"
+
+msgid "API host:"
+msgstr "API 主机："
+
+msgid "Select host"
+msgstr "选择主机"
+
+msgid "Field required."
+msgstr "必填字段。"
+
+msgid "Invalid value. Integer value required."
+msgstr "无效值。需要整数值。"
+
+msgid "Resource %s \"%s\" is used in the following resources:"
+msgstr "资源 %s \"%s\" 被以下资源使用："
+
+msgid "Component: %s, Resource: %s \"%s\", Directive: %s"
+msgstr "组件：%s, 资源：%s \"%s\", 指令：%s"
+
+msgid "Are you sure that you want to remove %s resource \"%s\"?"
+msgstr "您确定要移除 %s 资源 \"%s\" 吗？"
+
+msgid "Resource %s \"%s\" removed successfully."
+msgstr "资源 %s \"%s\" 已成功移除。"
+
+msgid "Please unassign resource %s \"%s\" from these resources and try again."
+msgstr "请从这些资源中取消分配资源 %s \"%s\"，然后再试一次。"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "JobId:"
+msgstr "任务ID："
+
+msgid "Volume:"
+msgstr "卷："
+
+msgid "InChanger:"
+msgstr "在转换器中："
+
+msgid "Sum:"
+msgstr "总计："
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Path:"
+msgstr "路径："
+
+msgid "Restore wizard"
+msgstr "恢复向导"
+
+msgid "This wizard enables you to do in easy way restore files to destination Bacula Client."
+msgstr "此向导使您能够以简单的方式将文件恢复到目标 Bacula 客户端。"
+
+msgid "To start, please select backup Client which data you want to restore."
+msgstr "开始，请选择您想要恢复数据的备份客户端。"
+
+msgid "There are two ways to select backup to restore. The selected backup way provides list of jobs from which there is possible to select a job. If you need the latest backups from the Client alternatively you can use Group most recent backups way which will select backups for you basing on backup job name and fileset resource."
+msgstr "有两种方式选择要恢复的备份。选定的备份方式提供了可以选择任务的任务列表。如果您需要客户端的最新备份，您也可以使用“分组最近的备份”方式，它将根据备份任务名称和文件集资源为您选择备份。"
+
+msgid "Do not relocate files"
+msgstr "不要重新定位文件"
+
+msgid "Relocate files with prefix and/or suffix"
+msgstr "使用前缀和/或后缀重新定位文件"
+
+msgid "Relocate files with regular expression"
+msgstr "使用正则表达式重新定位文件"
+
+msgid "Strip prefix:"
+msgstr "去除前缀："
+
+msgid "Add prefix:"
+msgstr "添加前缀："
+
+msgid "Add suffix:"
+msgstr "添加后缀："
+
+msgid "RegexWhere:"
+msgstr "正则表达式位置："
+
+msgid "File relocation option:"
+msgstr "文件重新定位选项："
+
+msgid "In Changer"
+msgstr "在转换器中"
+
+msgid "Volume"
+msgstr "卷"
+
+msgid "During restore there will be used following volumes:"
+msgstr "在恢复过程中将使用以下卷："
+
+msgid "Go back"
+msgstr "返回"
+
+msgid "Start time"
+msgstr "开始时间"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "JobId"
+msgstr "任务ID"
+
+msgid "More jobs"
+msgstr "更多任务"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Job is running"
+msgstr "任务正在运行"
+
+msgid "Job is finished"
+msgstr "任务已完成"
+
+msgid "Refresh log"
+msgstr "刷新日志"
+
+msgid "Job list"
+msgstr "任务列表"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Storage list"
+msgstr "存储列表"
+
+msgid "Status storage"
+msgstr "存储状态"
+
+msgid "Storages"
+msgstr "存储"
+
+msgid "Client list"
+msgstr "客户端列表"
+
+msgid "Uname"
+msgstr "系统名称"
+
+msgid "AutoPrune"
+msgstr "自动清理"
+
+msgid "Job retention"
+msgstr "任务保留"
+
+msgid "File retention"
+msgstr "文件保留"
+
+msgid "Client details"
+msgstr "客户端详情"
+
+msgid "Status client"
+msgstr "客户端状态"
+
+msgid "Configure client"
+msgstr "配置客户端"
+
+msgid "Add new Client"
+msgstr "添加新客户端"
+
+msgid "New"
+msgstr "新建"
+
+msgid "Resource to create:"
+msgstr "要创建的资源："
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Add new resource"
+msgstr "添加新资源"
+
+msgid "Please select host"
+msgstr "请选择主机"
+
+msgid "Component:"
+msgstr "组件："
+
+msgid "Please select component"
+msgstr "请选择组件"
+
+msgid "Add client"
+msgstr "添加客户端"
+
+msgid "Add job"
+msgstr "添加任务"
+
+msgid "Job to run:"
+msgstr "要运行的任务："
+
+msgid "Add storage"
+msgstr "添加存储"
+
+msgid "Add device"
+msgstr "添加设备"
+
+msgid "Add autochanger"
+msgstr "添加自动换带机"
+
+msgid "Resource has been saved successfully."
+msgstr "资源已成功保存。"
+
+msgid "Configure storage"
+msgstr "配置存储"
+
+msgid "Configure devices"
+msgstr "配置设备"
+
+msgid "Configure autochanger"
+msgstr "配置自动换带机"
+
+msgid "Storage details"
+msgstr "存储详情"
+
+msgid "Device name"
+msgstr "设备名称"
+
+msgid "Device details"
+msgstr "设备详情"
+
+msgid "Device:"
+msgstr "设备："
+
+msgid "Configure device"
+msgstr "配置设备"
+
+msgid "Job details"
+msgstr "任务详情"
+
+msgid "No. vols"
+msgstr "卷数"
+
+msgid "Max. vols"
+msgstr "最大卷数"
+
+msgid "Vol. retention"
+msgstr "卷保留"
+
+msgid "Max. vol. jobs"
+msgstr "最大卷任务"
+
+msgid "Max. vol. bytes"
+msgstr "最大卷大小"
+
+msgid "Max. vol. files"
+msgstr "最大卷文件"
+
+msgid "Recycle"
+msgstr "循环使用"
+
+msgid "Pool list"
+msgstr "池列表"
+
+msgid "Add pool"
+msgstr "添加池"
+
+msgid "Update pool"
+msgstr "更新池"
+
+msgid "Update all vols in pool"
+msgstr "更新池中的所有卷"
+
+msgid "Pool details"
+msgstr "池详情"
+
+msgid "Limits"
+msgstr "限制"
+
+msgid "Recycling"
+msgstr "回收"
+
+msgid "Vol. use duration"
+msgstr "卷使用时长"
+
+msgid "Action on purge"
+msgstr "清除时的操作"
+
+msgid "Recycle pool"
+msgstr "循环使用池"
+
+msgid "Scratch pool"
+msgstr "临时池"
+
+msgid "Next pool"
+msgstr "下一个池"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Volumes in pool"
+msgstr "池中的卷"
+
+msgid "Configure pool"
+msgstr "配置池"
+
+msgid "First written"
+msgstr "首次写入"
+
+msgid "Last written"
+msgstr "最后写入"
+
+msgid "Vol. jobs"
+msgstr "卷任务"
+
+msgid "Vol. bytes"
+msgstr "卷大小"
+
+msgid "Volume list"
+msgstr "卷列表"
+
+msgid "Volume details"
+msgstr "卷详情"
+
+msgid "Recycle count"
+msgstr "回收计数"
+
+msgid "Configure volume"
+msgstr "配置卷"
+
+msgid "InChanger"
+msgstr "在换带机中"
+
+msgid "Vol. files"
+msgstr "卷文件"
+
+msgid "Writing"
+msgstr "正在写入"
+
+msgid "Vol. status"
+msgstr "卷状态"
+
+msgid "Vol. errors"
+msgstr "卷错误"
+
+msgid "Vol. mounts"
+msgstr "卷装载"
+
+msgid "Configure job"
+msgstr "配置任务"
+
+msgid "Configure fileset"
+msgstr "配置文件集"
+
+msgid "Configure schedule"
+msgstr "配置计划"
+
+msgid "Remove resource"
+msgstr "移除资源"
+
+msgid "Job history"
+msgstr "已执行任务"
+
+msgid "Job history list"
+msgstr "已执行任务清单"
+
+msgid "Job history details"
+msgstr "已执行任务详情"
+
+msgid "Are you sure you want to remove this resource?"
+msgstr "您确定要移除这个资源吗？"
+
+msgid "FileSets"
+msgstr "文件集"
+
+msgid "FileSet list"
+msgstr "文件集列表"
+
+msgid "Add fileset"
+msgstr "添加文件集"
+
+msgid "FileSet details"
+msgstr "文件集详情"
+
+msgid "Schedule list"
+msgstr "计划列表"
+
+msgid "Add schedule"
+msgstr "添加计划"
+
+msgid "Schedules"
+msgstr "计划任务"
+
+msgid "Schedule:"
+msgstr "计划任务："
+
+msgid "Schedule details"
+msgstr "计划任务详情"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Configure Bacula hosts"
+msgstr "配置 Bacula 主机"
+
+msgid "Previous"
+msgstr "上一个"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "Exit wizard"
+msgstr "退出向导"
+
+msgid "Time range:"
+msgstr "时间范围："
+
+msgid "Application settings"
+msgstr "应用设置"
+
+msgid "Update slots"
+msgstr "更新插槽"
+
+msgid "Max. number of jobs visible in tables"
+msgstr "表格中可见的最大任务数"
+
+msgid "Max. number of jobs value must be integer greather than 0."
+msgstr "最大任务数值必须是大于 0 的整数。"
+
+msgid "Log order"
+msgstr "日志顺序"
+
+msgid "Close Menu"
+msgstr "关闭菜单"
+
+msgid "Error code:"
+msgstr "错误代码："
+
+msgid "Message:"
+msgstr "消息："
+
+msgid "Include"
+msgstr "包括"
+
+msgid "Exclude"
+msgstr "排除"
+
+msgid "Step 1 - select job type"
+msgstr "步骤 1 - 选择任务类型"
+
+msgid "New job wizard"
+msgstr "新任务向导"
+
+msgid "This wizard enables you to create in easy way a new job."
+msgstr "此向导使您能够轻松创建新任务。"
+
+msgid "To start please select job type that you wish to create."
+msgstr "开始请选择您希望创建的任务类型。"
+
+msgid "Step 2 - what you want to backup"
+msgstr "步骤 2 - 您想要备份什么"
+
+msgid "Client and FileSet"
+msgstr "客户端和文件集"
+
+msgid "Please select Client from which you want to backup data and please select FileSet with files/directories definition to backup."
+msgstr "请选择您想要备份数据的客户端，并选择带有文件/目录定义的文件集进行备份。"
+
+msgid "If your FileSet for this backup does not exist yet, you can create it."
+msgstr "如果此备份的文件集尚不存在，您可以创建它。"
+
+msgid "Add new FileSet"
+msgstr "添加新文件集"
+
+msgid "New FileSet"
+msgstr "新文件集"
+
+msgid "Step 3 - where you want to backup"
+msgstr "步骤 3 - 您想要备份到哪里"
+
+msgid "Storage and Pool"
+msgstr "存储和池"
+
+msgid "Spool setting"
+msgstr "暂存设置"
+
+msgid "Please select Storage where you want to backup data and please select Pool with volumes which Storage will use to store backup data."
+msgstr "请选择您想要备份数据的存储，并选择存储将使用以存储备份数据的卷的池。"
+
+msgid "Show Storage directives for Job"
+msgstr "显示任务的存储指令"
+
+msgid "Show Pool directives for Job"
+msgstr "显示任务的池指令"
+
+msgid "Pool setting"
+msgstr "池设置"
+
+msgid "Step 4 - how would you like to backup"
+msgstr "步骤 4 - 您希望如何备份"
+
+msgid "Job directives"
+msgstr "任务指令"
+
+msgid "Step 5 - when would you like to run backup"
+msgstr "步骤 5 - 您希望何时运行备份"
+
+msgid "Show Reschedule directives"
+msgstr "显示重新调度指令"
+
+msgid "Reschedule setting"
+msgstr "重新调度设置"
+
+msgid "What"
+msgstr "什么"
+
+msgid "General"
+msgstr "通用"
+
+msgid "How"
+msgstr "如何"
+
+msgid "When"
+msgstr "何时"
+
+msgid "Other directives"
+msgstr "其他指令"
+
+msgid "Step 6 - summary"
+msgstr "步骤 6 - 摘要"
+
+msgid "Add new Pool"
+msgstr "添加新池"
+
+msgid "New Pool"
+msgstr "新池"
+
+msgid "Add new Schedule"
+msgstr "添加新计划任务"
+
+msgid "New Schedule"
+msgstr "新计划任务"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "inherited from JobDefs"
+msgstr "继承自 JobDefs"
+
+msgid "Create job"
+msgstr "创建任务"
+
+msgid "Please select Client"
+msgstr "请选择客户端"
+
+msgid "Go to path"
+msgstr "前往路径"
+
+msgid "Add new include path"
+msgstr "添加新的包含路径"
+
+msgid "Add new global exclude path"
+msgstr "添加新的全局排除路径"
+
+msgid "Include files to FileSet"
+msgstr "将文件包含到文件集"
+
+msgid "Apply file selection"
+msgstr "应用文件选择"
+
+msgid "Schedule"
+msgstr "计划任务"
+
+msgid "To browse Windows host please type in text field below drive letter as path, for example: C:/"
+msgstr "要浏览 Windows 主机，请在下面的文本字段中输入驱动器字母作为路径，例如：C:/"
+
+msgid "Add single file/directory"
+msgstr "添加单个文件/目录"
+
+msgid "Add files by file browser"
+msgstr "通过文件浏览器添加文件"
+
+msgid "Add options block"
+msgstr "添加选项块"
+
+msgid "Add include block"
+msgstr "添加包含块"
+
+msgid "Add exclude block"
+msgstr "添加排除块"
+
+msgid "Add file/directory"
+msgstr "添加文件/目录"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Add plugin"
+msgstr "添加插件"
+
+msgid "Job schedules"
+msgstr "任务计划"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "Scheduled"
+msgstr "已计划"
+
+msgid "FileSet"
+msgstr "文件集"
+
+msgid "Filters:"
+msgstr "查询："
+
+msgid "Date from:"
+msgstr "日期从："
+
+msgid "Days:"
+msgstr "天数："
+
+msgid "Apply filters"
+msgstr "查询"
+
+msgid "You must enter an integer."
+msgstr "您必须输入一个整数。"
+
+msgid "Invalid date format."
+msgstr "无效的日期格式。"
+
+msgid "Input must be between 1 and 1000."
+msgstr "输入必须在1到1000之间。"
+
+msgid "Schedule status"
+msgstr "计划状态"
+
+msgid "Slots to label (ex. 4 or 1-5 or 2,4,6-10):"
+msgstr "要标记的插槽（例如 4 或 1-5 或 2,4,6-10）："
+
+msgid "Labeling status:"
+msgstr "标记状态："
+
+msgid "Ready to label"
+msgstr "准备标记"
+
+msgid "Finished"
+msgstr "已完成"
+
+msgid "Updating status:"
+msgstr "更新状态："
+
+msgid "Ready to update"
+msgstr "准备更新"
+
+msgid "Updating..."
+msgstr "正在更新..."
+
+msgid "Slots to update (ex. 4 or 1-5 or 2,4,6-10):"
+msgstr "要更新的插槽（例如 4 或 1-5 或 2,4,6-10）："
+
+msgid "Command status:"
+msgstr "命令状态："
+
+msgid "Ready"
+msgstr "准备就绪"
+
+msgid "Show size values as:"
+msgstr "显示大小值为："
+
+msgid "Decimal Bytes (1 mega = 10<sup>6</sup>)"
+msgstr "十进制字节（1 兆 = 10<sup>6</sup>）"
+
+msgid "Binary Bytes (1 mebi = 2<sup>20</sup>)"
+msgstr "二进制字节（1 mebi = 2<sup>20</sup>）"
+
+msgid "Statistics list"
+msgstr "统计列表"
+
+msgid "Add director statistics"
+msgstr "添加主控端统计"
+
+msgid "Add storage statistics"
+msgstr "添加存储统计"
+
+msgid "Add file daemon statistics"
+msgstr "添加文件守护进程统计"
+
+msgid "Component type"
+msgstr "组件类型"
+
+msgid "Component name"
+msgstr "组件名称"
+
+msgid "Statistics details"
+msgstr "统计详情"
+
+msgid "Statistics:"
+msgstr "统计："
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Job files / Time"
+msgstr "任务文件 / 时间"
+
+msgid "Job files per day"
+msgstr "每天的任务文件"
+
+msgid "Files count"
+msgstr "文件计数"
+
+msgid "Jobs status / Day"
+msgstr "任务状态 / 天"
+
+msgid "Job status per day"
+msgstr "每天的任务状态"
+
+msgid "Jobs count"
+msgstr "任务计数"
+
+msgid "Job files"
+msgstr "任务文件"
+
+msgid "Graph type:"
+msgstr "图表类型："
+
+msgid "Tip: to use zoom, please mark area on graph."
+msgstr "提示：要使用缩放，请在图表上标记区域。"
+
+msgid "Tip 2: to exit zoom, please click somewhere on graph."
+msgstr "提示 2：要退出缩放，请在图表上的某处点击。"
+
+msgid "Job size / Day"
+msgstr "任务大小 / 天"
+
+msgid "Job size per day"
+msgstr "每天的任务大小"
+
+msgid "Job files / Day"
+msgstr "任务文件 / 天"
+
+msgid "Graph:"
+msgstr "图表："
+
+msgid "Job duration"
+msgstr "任务持续时间"
+
+msgid "Jobs duration / Time"
+msgstr "任务持续时间 / 时间"
+
+msgid "Duration"
+msgstr "持续时间"
+
+msgid "Job size per hour"
+msgstr "每小时的任务大小"
+
+msgid "Job size / Hour"
+msgstr "任务大小 / 小时"
+
+msgid "Job files per hour"
+msgstr "每小时的任务文件"
+
+msgid "Job files / Hour"
+msgstr "任务文件 / 小时"
+
+msgid "Average job size per hour"
+msgstr "每小时平均任务大小"
+
+msgid "Average job size per day"
+msgstr "每天平均任务大小"
+
+msgid "Average job size / Hour"
+msgstr "平均任务大小 / 小时"
+
+msgid "Average job size / Day"
+msgstr "平均任务大小 / 天"
+
+msgid "Average job files per hour"
+msgstr "每小时平均任务文件"
+
+msgid "Average job files per day"
+msgstr "每天平均任务文件"
+
+msgid "Average job files / Hour"
+msgstr "平均任务文件 / 小时"
+
+msgid "Average job files / Day"
+msgstr "平均任务文件 / 天"
+
+msgid "Average job speed / Time"
+msgstr "平均任务速度 / 时间"
+
+msgid "Job speed"
+msgstr "任务速度"
+
+msgid "Average job speed"
+msgstr "平均任务速度"
+
+msgid "Job count per hour"
+msgstr "每小时任务计数"
+
+msgid "Job count per day"
+msgstr "每天任务计数"
+
+msgid "Job count / Hour"
+msgstr "任务计数 / 小时"
+
+msgid "Job count"
+msgstr "任务计数"
+
+msgid "Job count / Day"
+msgstr "任务计数 / 天"
+
+msgid "Job level:"
+msgstr "任务级别："
+
+msgid "All levels"
+msgstr "所有级别"
+
+msgid "Full"
+msgstr "完全"
+
+msgid "Incremental"
+msgstr "增量"
+
+msgid "Differential"
+msgstr "差异"
+
+msgid "Custom time range"
+msgstr "自定义时间范围"
+
+msgid "Version:"
+msgstr "版本："
+
+msgid "Add directive"
+msgstr "添加指令"
+
+msgid "Go to job with jobid %jobid"
+msgstr "前往具有任务ID %jobid的任务"
+
+msgid "Go to job %job"
+msgstr "前往任务 %job"
+
+msgid "Graphical status"
+msgstr "图形状态"
+
+msgid "Raw status"
+msgstr "原始状态"
+
+msgid "Uname:"
+msgstr "系统名称："
+
+msgid "Started time:"
+msgstr "开始时间："
+
+msgid "Plugins:"
+msgstr "插件："
+
+msgid "Bandwidth limit:"
+msgstr "带宽限制："
+
+msgid "No limit"
+msgstr "无限制"
+
+msgid "Debug:"
+msgstr "调试："
+
+msgid "No debug"
+msgstr "无调试"
+
+msgid "Job bytes:"
+msgstr "任务字节："
+
+msgid "Job files:"
+msgstr "任务文件："
+
+msgid "Average speed:"
+msgstr "平均速度："
+
+msgid "Processing file:"
+msgstr "正在处理文件："
+
+msgid "Read bytes:"
+msgstr "读取字节："
+
+msgid "Examined files:"
+msgstr "检查过的文件："
+
+msgid "Running jobs"
+msgstr "正在运行的任务"
+
+msgid "Job errors:"
+msgstr "任务错误："
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Refresh interval (sec.):"
+msgstr "刷新间隔（秒）："
+
+msgid "To disable refreshing please type 0."
+msgstr "要禁用刷新，请输入 0。"
+
+msgid "No jobs running"
+msgstr "没有正在运行的任务"
+
+msgid "Graphical client status is supported for Bacula clients version 9.0 and greater."
+msgstr "图形客户端状态支持 Bacula 客户端版本 9.0 及更高版本。"
+
+msgid "Status request timed out. The most probably the Bacula client is not available or it is not running."
+msgstr "状态请求超时。最可能的是 Bacula 客户端不可用或未运行。"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Restart"
+msgstr "重启"
+
+msgid "Component action result"
+msgstr "组件操作结果"
+
+msgid "Component start finished successfully."
+msgstr "组件启动成功完成。"
+
+msgid "Component stop finished successfully."
+msgstr "组件停止成功完成。"
+
+msgid "Component restart finished successfully."
+msgstr "组件重启成功完成。"
+
+msgid "Set bandwidth"
+msgstr "设置带宽"
+
+msgid "Set client bandwidth limit"
+msgstr "设置客户端带宽限制"
+
+msgid "Here you can set bandwidth limit on client. This changes is applied on running client. There is no need to restart it."
+msgstr "您可以在此处设置客户端的带宽限制。这些更改将应用于正在运行的客户端。无需重启它。"
+
+msgid "Bandwidth limit"
+msgstr "带宽限制"
+
+msgid "Here you can set bandwidth limit on client. This change is applied on running client. There is no need to restart it."
+msgstr "您可以在此处设置客户端的带宽限制。这些更改将应用于正在运行的客户端。无需重启它。"
+
+msgid "Setting 0 (zero) value disables bandwidth limitation."
+msgstr "设置 0（零）值可以禁用带宽限制。"
+
+msgid "Set job bandwidth limit"
+msgstr "设置任务带宽限制"
+
+msgid "Here you can set bandwidth limit for job. This change is applied on running job."
+msgstr "您可以在此处为任务设置带宽限制。这些更改将应用于正在运行的任务。"
+
+msgid "est."
+msgstr "估计。"
+
+msgid "Progress bar displays estimated values"
+msgstr "进度条显示估计值"
+
+msgid "Byte progress bar:"
+msgstr "字节进度条："
+
+msgid "File progress bar:"
+msgstr "文件进度条："
+
+msgid "Running job status"
+msgstr "正在运行的任务状态"
+
+msgid "Raw job log"
+msgstr "原始任务日志"
+
+msgid "Not available"
+msgstr "不可用"
+
+msgid "The storage has been selected basing on job configuration. This item may require adjusting before job run."
+msgstr "根据任务配置选择了存储。这个项目可能需要在任务运行前进行调整。"
+
+msgid "Graphical job status is supported for jobs running on Bacula clients version 9.0 and greater."
+msgstr "图形任务状态支持在 Bacula 客户端版本 9.0 及更高版本上运行的任务。"
+
+msgid "Offset:"
+msgstr "偏移："
+
+msgid "List type:"
+msgstr "列表类型："
+
+msgid "saved items"
+msgstr "已保存项"
+
+msgid "deleted items"
+msgstr "已删除项"
+
+msgid "all"
+msgstr "全部"
+
+msgid "Find file or directory"
+msgstr "查找文件或目录"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Item count:"
+msgstr "项目计数："
+
+msgid "No item result"
+msgstr "没有项目结果"
+
+msgid "Refresh job log"
+msgstr "刷新任务日志"
+
+msgid "Set job log order (ascending/descending)"
+msgstr "设置任务日志顺序（升序/降序）"
+
+msgid "Run every month"
+msgstr "每月运行"
+
+msgid "Run one month a year"
+msgstr "一年运行一个月"
+
+msgid "Run from month to month a year (range)"
+msgstr "一年中从一个月运行到另一个月（范围）"
+
+msgid "Run every week"
+msgstr "每周运行"
+
+msgid "Run one week a month"
+msgstr "一个月运行一周"
+
+msgid "Run from week to week a month (range)"
+msgstr "一个月中从一周运行到另一周（范围）"
+
+msgid "Run every day"
+msgstr "每天运行"
+
+msgid "Run one day a month"
+msgstr "一个月运行一天"
+
+msgid "Run from day to day a month (range)"
+msgstr "一个月中从一天运行到另一天（范围）"
+
+msgid "Run every day of week"
+msgstr "每周的每天运行"
+
+msgid "Run one day of week"
+msgstr "一周的某一天运行"
+
+msgid "Run from day of week to day of week (range)"
+msgstr "一周中从某一天运行到另一天（范围）"
+
+msgid "Run every full hour"
+msgstr "每整点小时运行"
+
+msgid "Run at hour and minute"
+msgstr "在指定小时和分钟运行"
+
+msgid "Run hourly at minute"
+msgstr "每小时的指定分钟运行"
+
+msgid "Hour and minute"
+msgstr "小时和分钟"
+
+msgid "Validation error"
+msgstr "验证错误"
+
+msgid "Please select month in Run block"
+msgstr "请在运行块中选择月份"
+
+msgid "Please select month range in Run block"
+msgstr "请在运行块中选择月份范围"
+
+msgid "Please select week in Run block"
+msgstr "请在运行块中选择周"
+
+msgid "Please select week range in Run block"
+msgstr "请在运行块中选择周范围"
+
+msgid "Please select day in Run block"
+msgstr "请在运行块中选择日"
+
+msgid "Please select day range in Run block"
+msgstr "请在运行块中选择日期范围"
+
+msgid "Please select day of week in Run block"
+msgstr "请在运行块中选择星期几"
+
+msgid "Please select day of week range in Run block"
+msgstr "请在运行块中选择星期几的范围"
+
+msgid "Please select hour in Run block"
+msgstr "请在运行块中选择小时"
+
+msgid "Please select hour and minute in Run block"
+msgstr "请在运行块中选择小时和分钟"
+
+msgid "Are you sure, you want to delete this job?"
+msgstr "你确定要删除这个任务吗？"
+
+msgid "Access-control list"
+msgstr "访问控制列表"
+
+msgid "Communications encryption"
+msgstr "通信加密"
+
+msgid "Copy and migration"
+msgstr "复制和迁移"
+
+msgid "CSV file"
+msgstr "CSV 文件"
+
+msgid "Data encryption"
+msgstr "数据加密"
+
+msgid "Deduplication optimized volumes"
+msgstr "数据去重优化卷"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Disk"
+msgstr "磁盘"
+
+msgid "Duplicates and priorities"
+msgstr "重复项和优先级"
+
+msgid "Graphite"
+msgstr "石墨"
+
+msgid "Limitations"
+msgstr "限制"
+
+msgid "Networking"
+msgstr "网络"
+
+msgid "Pruning"
+msgstr "修剪"
+
+msgid "Spooling"
+msgstr "缓冲"
+
+msgid "Tape"
+msgstr "磁带"
+
+msgid "Verify"
+msgstr "验证"
+
+msgid "Virtual full backup"
+msgstr "虚拟全备份"
+
+msgid "Volume recycling"
+msgstr "卷回收"
+
+msgid "Tip: checking 'All' message type causes, that rest checked message types are saved with negation ex. Catalog = All, !Debug, !Saved, !Skipped"
+msgstr "提示：勾选 '全部' 消息类型会导致其余勾选的消息类型以否定形式保存，例如 Catalog = All, !Debug, !Saved, !Skipped"
+
+msgid "Enable restore from copy jobs feature:"
+msgstr "启用从复制任务恢复功能："
+
+msgid "Note: if you select incremental or differential backup, on the next step will be also loaded all directories and files from older backups required to do the job restore. In other words, the selected backup determines time point from which will be loaded the selected backup and other older backups (incremental, differential) backups up till closest full backup."
+msgstr "注意：如果您选择增量或差异备份，在下一步也将加载执行任务恢复所需的所有旧备份中的目录和文件。换句话说，所选的备份确定了将从哪个时间点加载所选备份以及其他旧备份（增量、差异）直到最近的全备份。"
+
+msgid "Create new resource"
+msgstr "创建新资源"
+
+msgid "The resource has been created successfully."
+msgstr "资源已成功创建。"
+
+msgid "Scheduled time"
+msgstr "预定时间"
+
+msgid "Real end time"
+msgstr "实际结束时间"
+
+msgid "Read bytes"
+msgstr "读取字节"
+
+msgid "Job errors"
+msgstr "任务错误"
+
+msgid "Job missing files"
+msgstr "任务缺失文件"
+
+msgid "Purged files"
+msgstr "清除文件"
+
+msgid "Has base"
+msgstr "有基础"
+
+msgid "Reviewed"
+msgstr "已审查"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "File table"
+msgstr "文件表"
+
+msgid "Label date"
+msgstr "标签日期"
+
+msgid "Vol. blocks"
+msgstr "卷块"
+
+msgid "Vol. abytes"
+msgstr "卷已用字节"
+
+msgid "Vol. apadding"
+msgstr "卷填充"
+
+msgid "Vol. hole bytes"
+msgstr "卷空洞字节"
+
+msgid "Vol. holes"
+msgstr "卷空洞"
+
+msgid "Vol. parts"
+msgstr "卷部分"
+
+msgid "Vol. writes"
+msgstr "卷写入"
+
+msgid "Vol. capacity bytes"
+msgstr "卷容量字节"
+
+msgid "Storage"
+msgstr "存储"
+
+msgid "Media addressing"
+msgstr "媒体寻址"
+
+msgid "Vol. read time"
+msgstr "卷读取时间"
+
+msgid "Vol. write time"
+msgstr "卷写入时间"
+
+msgid "End file"
+msgstr "结束文件"
+
+msgid "End block"
+msgstr "结束块"
+
+msgid "Initial write"
+msgstr "初始写入"
+
+msgid "Vol. type"
+msgstr "卷类型"
+
+msgid "Vol. cloud parts"
+msgstr "卷云部分"
+
+msgid "Last part bytes"
+msgstr "最后部分字节"
+
+msgid "Cache retention"
+msgstr "缓存保留"
+
+msgid "Bulk action"
+msgstr "批量操作"
+
+msgid "Following jobs are running and cannot be deleted: %running_jobs To delete them, please stop these jobs and try again."
+msgstr "以下任务正在运行且无法删除：%running_jobs 要删除它们，请停止这些任务然后重试。"
+
+msgid "Refresh page"
+msgstr "刷新页面"
+
+msgid "Tip: Use left-click to select table row. Use CTRL + left-click to multiple row selection. Use SHIFT + left-click to add a range of rows to selection."
+msgstr "提示：使用左键点击选择表格行。使用 CTRL + 左键点击进行多行选择。使用 SHIFT + 左键点击添加一系列行到选择中。"
+
+msgid "Show time in job log:"
+msgstr "在任务日志中显示时间："
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Long name"
+msgstr "全名"
+
+msgid "Edit user"
+msgstr "编辑用户"
+
+msgid "Long name:"
+msgstr "长名称："
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "E-mail:"
+msgstr "电子邮件："
+
+msgid "Roles:"
+msgstr "角色："
+
+msgid "Invalid e-mail address value."
+msgstr "无效的电子邮件地址值。"
+
+msgid "Invalid username value."
+msgstr "无效的用户名值。"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "E-mail"
+msgstr "电子邮件"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Add user"
+msgstr "添加用户"
+
+msgid "Username field cannot be empty."
+msgstr "用户名字段不能为空。"
+
+msgid "At least one role must be selected."
+msgstr "至少必须选择一个角色。"
+
+msgid "Username with the given name already exists."
+msgstr "给定名称的用户名已存在。"
+
+msgid "Edit role"
+msgstr "编辑角色"
+
+msgid "Role with limitted access"
+msgstr "具有限制访问的角色"
+
+msgid "Role with full access"
+msgstr "具有完全访问权限的角色"
+
+msgid "Role:"
+msgstr "角色："
+
+msgid "Resources:"
+msgstr "资源："
+
+msgid "Role name"
+msgstr "角色名称"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "Add new role"
+msgstr "添加新角色"
+
+msgid "Role field cannot be empty."
+msgstr "角色字段不能为空。"
+
+msgid "At least one resource must be selected."
+msgstr "至少必须选择一个资源。"
+
+msgid "Role with the given name already exists."
+msgstr "给定名称的角色已存在。"
+
+msgid "This is native predefined role, that cannot be changed. For having custom roles please use the button to add new role."
+msgstr "这是不能更改的原生预定义角色。要拥有自定义角色，请使用添加新角色的按钮。"
+
+msgid "The following roles are predefined and cannot be removed: %predefined_roles"
+msgstr "以下角色是预定义的，不能被移除：%predefined_roles"
+
+msgid "The following roles are using by users and cannot be removed: %used_roles To remove them, please unassign all users from these roles."
+msgstr "以下角色正在被用户使用，不能被移除：%used_roles 要移除它们，请取消分配所有使用这些角色的用户。"
+
+msgid "Add role"
+msgstr "添加角色"
+
+msgid "Authentication method"
+msgstr "认证方法"
+
+msgid "HTTP Basic authentication"
+msgstr "HTTP 基本认证"
+
+msgid "LDAP authentication"
+msgstr "LDAP 认证"
+
+msgid "LDAP server options"
+msgstr "LDAP 服务器选项"
+
+msgid "SSL encryption (LDAPS):"
+msgstr "SSL 加密（LDAPS）："
+
+msgid "Protocol version:"
+msgstr "协议版本："
+
+msgid "LDAP version"
+msgstr "LDAP 版本"
+
+msgid "LDAP authentication method"
+msgstr "LDAP 认证方法"
+
+msgid "Anonymous authentication"
+msgstr "匿名认证"
+
+msgid "Simple authentication"
+msgstr "简单认证"
+
+msgid "Base DN:"
+msgstr "基础 DN:"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "Please enter port."
+msgstr "请输入端口。"
+
+msgid "Please enter username."
+msgstr "请输入用户名。"
+
+msgid "Manager DN:"
+msgstr "管理员 DN:"
+
+msgid "Please enter IP Address/Hostname."
+msgstr "请输入 IP 地址/主机名。"
+
+msgid "Please enter username attribute."
+msgstr "请输入用户名属性。"
+
+msgid "Test LDAP connection"
+msgstr "测试 LDAP 连接"
+
+msgid "Manage LDAP users"
+msgstr "管理 LDAP 用户"
+
+msgid "Please enter Base DN."
+msgstr "请输入基础 DN。"
+
+msgid "LDAP user list"
+msgstr "LDAP 用户列表"
+
+msgid "Import users"
+msgstr "导入用户"
+
+msgid "Import all users"
+msgstr "导入所有用户"
+
+msgid "Import selected users"
+msgstr "导入所选用户"
+
+msgid "Import users whose fulfill criteria"
+msgstr "导入符合条件的用户"
+
+msgid "Import options:"
+msgstr "导入选项:"
+
+msgid "Criteria filter:"
+msgstr "条件过滤器:"
+
+msgid "contains:"
+msgstr "包含:"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Please select users in table to import."
+msgstr "请在表中选择要导入的用户。"
+
+msgid "Do not overwrite existing Bacularis Web users, if they have the same username"
+msgstr "如果已有相同用户名的 Bacularis Web 用户存在，请勿覆盖它们"
+
+msgid "Default role for imported users:"
+msgstr "导入用户的默认角色:"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+msgid "Default API hosts for imported users:"
+msgstr "导入用户的默认 API 主机:"
+
+msgid "Log in"
+msgstr "登录"
+
+msgid "Invalid username or password"
+msgstr "用户名或密码无效"
+
+msgid "IP address restrictions"
+msgstr "IP 地址限制"
+
+msgid "IP address restrictions:"
+msgstr "IP 地址限制:"
+
+msgid "Use CTRL + left-click to multiple item selection"
+msgstr "使用 CTRL + 左键进行多项选择"
+
+msgid "Comma separated IP addresses. Using asterisk character, there is also possible to provide subnet, for example: 192.168.1.*"
+msgstr "逗号分隔的 IP 地址。可以使用星号字符，例如：192.168.1.*，来提供子网。"
+
+msgid "Default IP address restrictions for imported users:"
+msgstr "导入用户的默认 IP 地址限制:"
+
+msgid "Set your IP address"
+msgstr "设置您的 IP 地址"
+
+msgid "Invalid IP address restrictions value. This field can have comma separated IP addresses only or subnet addresses like 192.168.1.*"
+msgstr "无效的 IP 地址限制值。此字段只能包含逗号分隔的 IP 地址或类似 192.168.1.* 的子网地址。"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Default access setting for logged in users not defined in Bacularis Web:"
+msgstr "未在 Bacularis Web 中定义的已登录用户的默认访问设置:"
+
+msgid "No access"
+msgstr "无访问权限"
+
+msgid "Access with default settings"
+msgstr "使用默认设置访问"
+
+msgid "Default role:"
+msgstr "默认角色:"
+
+msgid "Default API host:"
+msgstr "默认 API 主机:"
+
+msgid "Users file path:"
+msgstr "用户文件路径:"
+
+msgid "Hash algorithm:"
+msgstr "哈希算法:"
+
+msgid "Please enter users file path value."
+msgstr "请输入用户文件路径值。"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "The user file is not accessible."
+msgstr "用户文件不可访问。"
+
+msgid "The user file is not readable by web server user."
+msgstr "Web 服务器用户无法读取用户文件。"
+
+msgid "The user file is readable but not writeable by web server user."
+msgstr "Web 服务器用户可以读取用户文件，但无法写入。"
+
+msgid "Allow Bacularis Web to manage the Basic authentication users (add/remove users and change their passwords)"
+msgstr "允许 Bacularis Web 管理基本认证用户（添加/删除用户和更改其密码）"
+
+msgid "Authorization failed. Please contact the Bacularis administrator to grant permissions."
+msgstr "授权失败。请联系 Bacularis 管理员授予权限。"
+
+msgid "Try again"
+msgstr "重试"
+
+msgid "Manage Basic users"
+msgstr "管理基本用户"
+
+msgid "Empty user list"
+msgstr "空用户列表"
+
+msgid "Basic user list"
+msgstr "基本用户列表"
+
+msgid "Access to Baculum API"
+msgstr "访问 Baculum API"
+
+msgid "Access to Baculum Web"
+msgstr "访问 Baculum Web"
+
+msgid "Requried support from web server side - e.g. %supported_web_server_list"
+msgstr "需要 Web 服务器端的支持 - 例如 %supported_web_server_list"
+
+msgid "Apache 2.4 with apr-util 1.5+"
+msgstr "Apache 2.4 with apr-util 1.5+"
+
+msgid "Apache, Lighttpd and Nginx on most UNIX platforms"
+msgstr "在大多数 UNIX 平台上支持 Apache、Lighttpd 和 Nginx"
+
+msgid "Nginx on most UNIX platforms"
+msgstr "在大多数 UNIX 平台上支持 Nginx"
+
+msgid "No file found for selected backup. It can mean file records for this backup are pruned. Restoring selected files is not available but if you continue, there will be performed full restore all backup files."
+msgstr "未找到所选备份的文件。这可能意味着此备份的文件记录已被修剪。无法恢复所选文件，但如果您继续，将执行完整恢复所有备份文件。"
+
+msgid "Date and time format:"
+msgstr "日期和时间格式:"
+
+msgid "Available formats:"
+msgstr "可用格式:"
+
+msgid "full 4 digits year, ex. 2021"
+msgstr "完整的 4 位数年份，例如 2021"
+
+msgid "2 digits year, ex, 21"
+msgstr "2 位数年份，例如，21"
+
+msgid "2 digits month 01..12"
+msgstr "2 位数字月份 01..12"
+
+msgid "1-2 digits month 1..12"
+msgstr "1-2 位数字月份 1..12"
+
+msgid "2 digits day 01..31"
+msgstr "2 位数字日期 01..31"
+
+msgid "1-2 digits day 1..31"
+msgstr "1-2 位数字日期 1..31"
+
+msgid "2 digits 24-hour format hour 00..23"
+msgstr "2 位数字 24 小时制小时 00..23"
+
+msgid "1-2 digits 24-hour format hour 0..23"
+msgstr "1-2 位数字 24 小时制小时 0..23"
+
+msgid "2 digits 12-hour format hour 01..12"
+msgstr "2 位数字 12 小时制小时 01..12"
+
+msgid "1-2 digits 12-hour format hour 1..12"
+msgstr "1-2 位数字 12 小时制小时 1..12"
+
+msgid "2 digits minutes 00..59"
+msgstr "2 位数字分钟 00..59"
+
+msgid "1-2 digits minutes 0..59"
+msgstr "1-2 位数字分钟 0..59"
+
+msgid "2 digits seconds 00..59"
+msgstr "2 位数字秒钟 00..59"
+
+msgid "1-2 digits seconds 0..59"
+msgstr "1-2 位数字秒钟 0..59"
+
+msgid "AM/PM value"
+msgstr "上午/下午 值"
+
+msgid "24-hours format time 17:22:41"
+msgstr "24 小时制时间 17:22:41"
+
+msgid "12-hours format time 5:22:41 PM"
+msgstr "12 小时制时间 5:22:41 PM"
+
+msgid "Local user authentication"
+msgstr "本地用户认证"
+
+msgid "Console ACLs"
+msgstr "控制台 ACLs"
+
+msgid "Add new console"
+msgstr "添加新控制台"
+
+msgid "Edit console"
+msgstr "编辑控制台"
+
+msgid "Add console"
+msgstr "添加控制台"
+
+msgid "OAuth2 clients"
+msgstr "OAuth2 客户端"
+
+msgid "Short name"
+msgstr "简称"
+
+msgid "Add new OAuth2 client"
+msgstr "添加新的 OAuth2 客户端"
+
+msgid "Short name:"
+msgstr "简称:"
+
+msgid "Add OAuth2 client account"
+msgstr "添加 OAuth2 客户端账户"
+
+msgid "set all scopes"
+msgstr "设置所有范围"
+
+msgid "Edit OAuth2 client account"
+msgstr "编辑 OAuth2 客户端账户"
+
+msgid "Add new API host"
+msgstr "添加新的 API 主机"
+
+msgid "Get existing API host settings:"
+msgstr "获取现有的 API 主机设置:"
+
+msgid "Get existing OAuth2 client settings:"
+msgstr "获取现有的 OAuth2 客户端设置:"
+
+msgid "API hosts"
+msgstr "API 主机"
+
+msgid "Edit API host"
+msgstr "编辑 API 主机"
+
+msgid "Create dedicated Bconsole config file:"
+msgstr "创建专用的 Bconsole 配置文件:"
+
+msgid "Console ACL to use in new Bconsole config file:"
+msgstr "在新 Bconsole 配置文件中使用的控制台 ACL:"
+
+msgid "Director for Bconsole config:"
+msgstr "Bconsole 配置的 Director:"
+
+msgid "The console ACLs enable to define available resources for users. The consoles are used in the Bacula configuration on the API host side. There is possible to assign the consoles to the API basic users or to the OAuth2 clients. The assign relation for the basic users is: Console ACL -&gt; API basic user -&gt; API host -&gt; User account. For OAuth2 clients the assign relation is: Console ACL -&gt; OAuth2 client -&gt; API host -&gt; User account."
+msgstr "控制台 ACL 允许定义用户可用的资源。控制台用于在 API 主机端的 Bacula 配置中。可以将控制台分配给 API 基本用户或 OAuth2 客户端。基本用户的分配关系是：控制台 ACL -&gt; API 基本用户 -&gt; API 主机 -&gt; 用户帐户。对于 OAuth2 客户端，分配关系是：控制台 ACL -&gt; OAuth2 客户端 -&gt; API 主机 -&gt; 用户帐户。"
+
+msgid "The OAuth2 clients are configured on the API hosts. To create the OAuth2 clients from this page, you need to have an 'oauth2' scope in OAuth2 account related to your current admin user account. The OAuth2 client accounts are also possible to create directly in the panel of the Bacularis API."
+msgstr "OAuth2 客户端在 API 主机上进行配置。要从此页面创建 OAuth2 客户端，您需要在与当前管理员用户帐户相关联的 OAuth2 帐户中具有 'oauth2' 作用域。也可以直接在 Bacularis API 面板中创建 OAuth2 客户端帐户。"
+
+msgid "The API hosts define connection parameters to hosts with the Bacularis API instances. You can create the API host connections dedicated for specific users by assigning API hosts to them on the Users tab. There is possible to create many API host connections to the same Bacularis API instance."
+msgstr "API 主机定义与具有 Bacularis API 实例的主机的连接参数。您可以通过在“用户”选项卡上为它们分配 API 主机，为特定用户创建专用的 API 主机连接。可以创建多个 API 主机连接到同一个 Bacularis API 实例。"
+
+msgid "Set all CommandAcls used by Bacularis Web"
+msgstr "设置 Bacularis Web 使用的所有 CommandAcls"
+
+msgid "Find job by filename (without path):"
+msgstr "按文件名查找任务（不包括路径）:"
+
+msgid "File"
+msgstr "文件"
+
+msgid "match exact filename"
+msgstr "匹配完整文件名"
+
+msgid "With this option are searched files with names equal provided filename, otherwise there are searched files with names containing provided filename like *filename*."
+msgstr "使用此选项搜索与提供的文件名相等的文件，否则将搜索包含提供的文件名的文件，例如 *filename*。"
+
+msgid "State"
+msgstr "状态"
+
+msgid "saved"
+msgstr "已保存"
+
+msgid "deleted"
+msgstr "已删除"
+
+msgid "last %days days"
+msgstr "最近 %days 天"
+
+msgid "Path (optional):"
+msgstr "路径（可选）："
+
+msgid "With the given path, the results narrow down to the files in the path only."
+msgstr "使用给定的路径，结果将仅限于路径中的文件。"
+
+msgid "Storage Daemon:"
+msgstr "存储守护进程："
+
+msgid "# Autochangers:"
+msgstr "# 自动切换器："
+
+msgid "# Devices:"
+msgstr "# 设备："
+
+msgid "Devices"
+msgstr "设备"
+
+msgid "Archive device:"
+msgstr "归档设备："
+
+msgid "Device type:"
+msgstr "设备类型："
+
+msgid "Media type:"
+msgstr "介质类型："
+
+msgid "Device type"
+msgstr "设备类型"
+
+msgid "Media type"
+msgstr "介质类型"
+
+msgid "Maximum concurrent jobs:"
+msgstr "最大并发任务数："
+
+msgid "Maximum volume size:"
+msgstr "最大卷大小："
+
+msgid "Mounted:"
+msgstr "已挂载："
+
+msgid "Opened:"
+msgstr "已打开："
+
+msgid "Waiting:"
+msgstr "等待："
+
+msgid "Blocked:"
+msgstr "阻塞："
+
+msgid "Blocked description:"
+msgstr "阻塞描述："
+
+msgid "Read-only:"
+msgstr "只读："
+
+msgid "Last speed:"
+msgstr "最近速度："
+
+msgid "Write pool:"
+msgstr "写池："
+
+msgid "Write device:"
+msgstr "写设备："
+
+msgid "Write volume:"
+msgstr "写卷："
+
+msgid "Read pool:"
+msgstr "读池："
+
+msgid "Read device:"
+msgstr "读设备："
+
+msgid "Read volume:"
+msgstr "读卷："
+
+msgid "Used space:"
+msgstr "已使用空间："
+
+msgid "Status:"
+msgstr "状态："
+
+msgid "running"
+msgstr "运行中"
+
+msgid "idle"
+msgstr "空闲"
+
+msgid "Autochanger:"
+msgstr "自动切换器："
+
+msgid "Single devices"
+msgstr "单个设备"
+
+msgid "Start time:"
+msgstr "开始时间："
+
+msgid "End time:"
+msgstr "结束时间："
+
+msgid "Terminated jobs"
+msgstr "终止的任务"
+
+msgid "All devices"
+msgstr "所有设备"
+
+msgid "All device types"
+msgstr "所有设备类型"
+
+msgid "All media types"
+msgstr "所有介质类型"
+
+msgid "All statuses"
+msgstr "所有状态"
+
+msgid "Graphical storage status is supported for Bacula storages version 9.0 and greater."
+msgstr "图形化存储状态支持 Bacula 存储版本 9.0 及更高版本。"
+
+msgid "Status request timed out. The most probably the Bacula storage is not available or it is not running."
+msgstr "状态请求超时。很可能是 Bacula 存储不可用或未运行。"
+
+msgid "Display messages log window"
+msgstr "显示消息日志窗口"
+
+msgid "Truncate log"
+msgstr "截断日志"
+
+msgid "Messages"
+msgstr "消息"
+
+msgid "Last %errors/%count jobs finished with error."
+msgstr "最近 %errors/%count 个任务以错误结束。"
+
+msgid "All last %count jobs finished successfully."
+msgstr "所有最近的 %count 个任务都成功完成。"
+
+msgid "Drive index"
+msgstr "驱动器索引"
+
+msgid "Drive name"
+msgstr "驱动器名称"
+
+msgid "Unload"
+msgstr "卸载"
+
+msgid "Manage autochanger"
+msgstr "管理自动切换器"
+
+msgid "Slot in device"
+msgstr "设备中的槽位"
+
+msgid "Slot in catalog"
+msgstr "目录中的槽位"
+
+msgid "Load"
+msgstr "加载"
+
+msgid "Load drive"
+msgstr "加载驱动器"
+
+msgid "index"
+msgstr "索引"
+
+msgid "device"
+msgstr "设备"
+
+msgid "Drive"
+msgstr "驱动器"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "In drive %index (%drive)"
+msgstr "在驱动器 %index (%drive) 中"
+
+msgid "Import/Export"
+msgstr "导入/导出"
+
+msgid "Label using barcodes"
+msgstr "使用条形码标记"
+
+msgid "Move to import/export slot"
+msgstr "移动到导入/导出槽位"
+
+msgid "Autochanger management is unavailable. To manage autochanger from here, add it to the API host devices on the API host side."
+msgstr "自动切换器管理不可用。要从这里管理自动切换器，请将其添加到 API 主机设备上的 API 主机端。"
+
+msgid "Drive index:"
+msgstr "驱动器索引:"
+
+msgid "Slots"
+msgstr "槽位"
+
+msgid "Release I/E"
+msgstr "释放 I/E"
+
+msgid "Move to import/export slots"
+msgstr "移动到导入/导出槽位"
+
+msgid "There are to few import/export slots to transfer selected volumes. Free import/export slots count: %slots_count, selected volumes count: %vols_count."
+msgstr "导入/导出槽位数量不足以转移所选的卷。空闲导入/导出槽位数量：%slots_count，所选卷的数量：%vols_count。"
+
+msgid "Import/export slot"
+msgstr "导入/导出槽位"
+
+msgid "Destination slot"
+msgstr "目标槽位"
+
+msgid "Release import/export slot"
+msgstr "释放导入/导出槽位"
+
+msgid "Tape drives"
+msgstr "磁带驱动器"
+
+msgid "Changer slots"
+msgstr "切换槽位"
+
+msgid "Release all I/E slots"
+msgstr "释放所有 I/E 槽位"
+
+msgid "There are to few regular slots to transfer selected volumes from import/export slots. Full import/export slot count: %ie_slot_count, free regular slot count: %slot_count."
+msgstr "常规槽位数量不足以从导入/导出槽位转移所选的卷。完整的导入/导出槽位数量：%ie_slot_count，空闲的常规槽位数量：%slot_count。"
+
+msgid "Tip: To use bulk autochanger actions, please select table rows."
+msgstr "提示：要使用批量自动切换器操作，请选择表格行。"
+
+msgid "Mount volume"
+msgstr "挂载卷"
+
+msgid "API hosts:"
+msgstr "API 主机:"
+
+msgid "Please select API host"
+msgstr "请选择 API 主机"
+
+msgid "FD address"
+msgstr "FD 地址"
+
+msgid "FD port"
+msgstr "FD 端口"
+
+msgid "FD API host"
+msgstr "FD API 主机"
+
+msgid "Configure file daemon"
+msgstr "配置文件守护进程"
+
+msgid "There was a problem with loading the resource configuration. Please check if selected API host is working and if it provides access to the resource configuration."
+msgstr "加载资源配置时出现问题。请检查所选的 API 主机是否正常工作，并且是否提供对资源配置的访问权限。"
+
+msgid "SD API host"
+msgstr "SD API 主机"
+
+msgid "SD address"
+msgstr "SD 地址"
+
+msgid "SD port"
+msgstr "SD端口"
+
+msgid "Configure storage daemon"
+msgstr "配置存储守护进程"
+
+msgid "# Directories:"
+msgstr "# 目录:"
+
+msgid "# Files:"
+msgstr "# 文件:"
+
+msgid "Search..."
+msgstr "搜索..."
+
+msgid "case sensitive"
+msgstr "区分大小写"
+
+msgid "Backup client"
+msgstr "备份客户端"
+
+msgid "Job type"
+msgstr "任务类型"
+
+msgid "Restore time point"
+msgstr "恢复时间点"
+
+msgid "Catalogs"
+msgstr "目录"
+
+msgid "Status director"
+msgstr "主控端状态"
+
+msgid "Configure director"
+msgstr "主控端配置"
+
+msgid "Job"
+msgstr "任务"
+
+msgid "Job status desc.:"
+msgstr "任务状态描述:"
+
+msgid "Scheduled time:"
+msgstr "计划时间:"
+
+msgid "Scheduled jobs"
+msgstr "已计划任务"
+
+msgid "No jobs scheduled"
+msgstr "没有计划的任务"
+
+msgid "No jobs terminated"
+msgstr "没有终止的任务"
+
+msgid "Director details"
+msgstr "主控端详情"
+
+msgid "Graphical director status is supported for Bacula directors version 9.0 and greater."
+msgstr "图形化主管状态支持 Bacula 主管版本 9.0 及更高版本。"
+
+msgid "Status request timed out. The most probably the Bacula director is not available or it is not running."
+msgstr "状态请求超时。最有可能是 Bacula 主管不可用或未运行。"
+
+msgid "To use the console page please configure bbconsjson binary file path on the API side."
+msgstr "要使用控制台页面，请在API端配置bbconsjson二进制文件路径。"
+
+msgid "Console details"
+msgstr "命令行详情"
+
+msgid "Configure console"
+msgstr "配置控制台"
+
+msgid "Mode:"
+msgstr "模式:"
+
+msgid "Jobs finished successfully"
+msgstr "任务成功完成"
+
+msgid "Jobs finished with warnings"
+msgstr "任务完成时有警告"
+
+msgid "Jobs finished with errors"
+msgstr "任务完成时有错误"
+
+msgid "Jobs cancelled"
+msgstr "任务已取消"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Column visibility"
+msgstr "显示列"
+
+msgid "1 row selected"
+msgstr "已选择1行"
+
+msgid "%d rows selected"
+msgstr "已选择%d行"
+
+msgid "Show _MENU_ entries"
+msgstr "显示 _MENU_ 项"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "显示 _START_ 至 _END_ 共 _TOTAL_ 项"
+
+msgid "First"
+msgstr "第一页"
+
+msgid "Last"
+msgstr "最后一页"
+
+msgid "No matching records found"
+msgstr "未找到匹配的记录"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "从总共 _MAX_ 项中筛选"
+
+msgid "No data available in table"
+msgstr "表中无可用数据"
+
+msgid "Jump to:"
+msgstr "跳至:"
+
+msgid "Previous error/warning"
+msgstr "上一个错误/警告"
+
+msgid "Next error/warning"
+msgstr "下一个错误/警告"
+
+msgid "New backup job"
+msgstr "新增备份任务"
+
+msgid "New copy job"
+msgstr "新增复制任务"
+
+msgid "Step 1 - basic information about new job"
+msgstr "步骤 1 - 任务的基本信息"
+
+msgid "New copy job wizard"
+msgstr "复制任务向导"
+
+msgid "Copy jobs run copying backup jobs data from one volume to another. It is done by reading the previously backed up data from volume and writing it to another volume in a different pool. All process runs without using file daemon."
+msgstr "复制任务用于将备份任务数据从一个卷复制到另一个卷。它通过从卷中读取先前备份的数据并将其写入到另一个池中的另一个卷来完成。整个过程均在不使用文件守护进程的情况下运行。"
+
+msgid "Step 2 - what you want to copy"
+msgstr "步骤 2 - 您想复制什么"
+
+msgid "Source Pool"
+msgstr "源池"
+
+msgid "Please select a pool from which you want to copy data."
+msgstr "请选择要从中复制数据的池。"
+
+msgid "The source pool will be examined for finding backup jobs to copy."
+msgstr "将检查源池以查找要复制的备份任务。"
+
+msgid "See volumes in selected pool"
+msgstr "查看所选池中的卷"
+
+msgid "Step 3 - how would you like to copy"
+msgstr "步骤 3 - 您想如何复制"
+
+msgid "Backup jobs selection criteria"
+msgstr "备份任务选择标准"
+
+msgid "Please select the criteria that will be used for selecting backup jobs to copy."
+msgstr "请选择将用于选择要复制的备份任务的标准。"
+
+msgid "Copy by job"
+msgstr "按任务复制"
+
+msgid "Copy by client"
+msgstr "按客户端复制"
+
+msgid "Copy by volume"
+msgstr "按卷复制"
+
+msgid "Copy by smallest volume"
+msgstr "按最小卷复制"
+
+msgid "Copy by oldest volume"
+msgstr "按最旧卷复制"
+
+msgid "Copy by SQL query"
+msgstr "按 SQL 查询复制"
+
+msgid "Copy all uncopied jobs (Pool Uncopied Jobs)"
+msgstr "复制所有未复制的任务 (池中未复制的任务)"
+
+msgid "See backup jobs"
+msgstr "查看备份任务"
+
+msgid "See clients"
+msgstr "查看客户端"
+
+msgid "See volumes"
+msgstr "查看卷"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Note."
+msgstr "注意."
+
+msgid "To chosen destination pool %pool will be assigned new Storage %storage. This action can affect all jobs (listed below) that use this pool. Are you sure you want to assign the storage %storage to pool %pool?"
+msgstr "将新的存储 %storage 分配给选定的目标池 %pool。此操作可能会影响使用此池的所有任务（下面列出）。您确定要将存储 %storage 分配给池 %pool 吗？"
+
+msgid "See all jobs that use the pool"
+msgstr "查看所有使用该池的任务"
+
+msgid "Step 4 - where you like to copy"
+msgstr "第 4 步 - 您想要复制到哪里"
+
+msgid "Destination Pool"
+msgstr "目标池"
+
+msgid "Please select destination pool to which will be stored data."
+msgstr "请选择要存储数据的目标池。"
+
+msgid "Destination Storage"
+msgstr "目标存储"
+
+msgid "Step 5 - copy job options"
+msgstr "第 5 步 - 复制任务选项"
+
+msgid "Other options"
+msgstr "其他选项"
+
+msgid "Pick job name"
+msgstr "选择任务名称"
+
+msgid "Pick client name"
+msgstr "选择客户端名称"
+
+msgid "Pick volume name"
+msgstr "选择卷名称"
+
+msgid "Level, Client and FileSet are not used during copy jobs running but they are required to define in copy job resource as the standard Job directives."
+msgstr "在运行复制任务时，级别、客户端和文件集不被使用，但它们需要在复制任务资源中定义为标准的任务指令。"
+
+msgid "Source Storage"
+msgstr "源存储"
+
+msgid "Please select a storage using which you want to read copy data."
+msgstr "请选择一个存储，用于读取复制数据。"
+
+msgid "Please select a storage using which you want to write copied data."
+msgstr "请选择一个存储，用于写入复制数据。"
+
+msgid "Not used"
+msgstr "未使用"
+
+msgid "New backup job wizard"
+msgstr "新备份任务向导"
+
+msgid "This wizard enables you to create in easy way a new backup job."
+msgstr "此向导使您可以轻松创建新的备份任务。"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Days of the week"
+msgstr "一周的天数"
+
+msgid "Weeks of the month"
+msgstr "一个月的周数"
+
+msgid "first"
+msgstr "第一个"
+
+msgid "second"
+msgstr "第二个"
+
+msgid "third"
+msgstr "第三个"
+
+msgid "fourth"
+msgstr "第四个"
+
+msgid "fifth"
+msgstr "第五个"
+
+msgid "sixth"
+msgstr "第六个"
+
+msgid "Days of the month"
+msgstr "一个月的日期"
+
+msgid "Weeks of the year"
+msgstr "一年的周数"
+
+msgid "All weeks"
+msgstr "所有周"
+
+msgid "All days"
+msgstr "所有天"
+
+msgid "Run at specified HH:MM"
+msgstr "在指定的 HH:MM 运行"
+
+msgid "Run at"
+msgstr "运行于"
+
+msgid "All months"
+msgstr "所有月份"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Last day of the month"
+msgstr "一个月的最后一天"
+
+msgid "Months of the year"
+msgstr "一年的月份"
+
+msgid "Hourly"
+msgstr "每小时"
+
+msgid "Daily"
+msgstr "每天"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Run job every hour at the specified minute"
+msgstr "在指定的分钟每小时运行任务"
+
+msgid "Run job every day at the specified time"
+msgstr "在指定的时间每天运行任务"
+
+msgid "Run job every week at the specified time on selected days of the week"
+msgstr "在每周的指定时间，在选定的周几运行任务"
+
+msgid "Run job every month at the specified time in selected weeks of the month"
+msgstr "在指定的时间，在选定的月份的指定周运行任务"
+
+msgid "Setup your custom schedule"
+msgstr "设置您的自定义计划"
+
+msgid "Override directives"
+msgstr "覆盖指令"
+
+msgid "Migrate by job"
+msgstr "按任务迁移"
+
+msgid "Migrate by client"
+msgstr "按客户端迁移"
+
+msgid "Migrate by volume"
+msgstr "按卷迁移"
+
+msgid "Migrate by smallest volume"
+msgstr "按最小卷迁移"
+
+msgid "Migrate by oldest volume"
+msgstr "按最旧卷迁移"
+
+msgid "Migrate using Pool occupancy"
+msgstr "使用池占用情况迁移"
+
+msgid "Migrate by Pool time"
+msgstr "按池时间迁移"
+
+msgid "Migrate by SQL query"
+msgstr "按 SQL 查询迁移"
+
+msgid "New migrate job wizard"
+msgstr "新增迁移任务向导"
+
+msgid "Step 2 - what you want to migrate"
+msgstr "第 2 步 - 您想迁移什么"
+
+msgid "Please select a pool from which you want to migrate data."
+msgstr "请选择要迁移数据的池。"
+
+msgid "The source pool will be examined for finding backup jobs to migrate."
+msgstr "将检查源池以查找要迁移的备份任务。"
+
+msgid "Please select a storage using which you want to read migrate data."
+msgstr "请选择要使用的存储以读取迁移数据。"
+
+msgid "Because you selected migrate using Pool occupancy, to chosen source pool %pool will be added two directives: Migration Low Bytes and Migration High Bytes."
+msgstr "因为您选择了使用池占用情况迁移，所以将向所选的源池 %pool 添加两个指令：迁移低字节和迁移高字节。"
+
+msgid "Because you selected migrate using Pool time, to chosen source pool %pool will be added the Migration Time directive."
+msgstr "因为您选择了使用池时间迁移，所以将向所选的源池 %pool 添加迁移时间指令。"
+
+msgid "Step 3 - how would you like to migrate"
+msgstr "第 3 步 - 您想如何迁移"
+
+msgid "Step 4 - where you like to migrate"
+msgstr "第 4 步 - 您想迁移到哪里"
+
+msgid "Please select a storage using which you want to write migrated data."
+msgstr "请选择要使用的存储以写入迁移的数据。"
+
+msgid "Step 5 - migrate job options"
+msgstr "第 5 步 - 迁移任务选项"
+
+msgid "Purge jobs"
+msgstr "清除任务"
+
+msgid "Level, Client and FileSet are not used during migrate jobs running but they are required to define in migrate job resource as the standard Job directives."
+msgstr "级别、客户端和文件集在迁移任务运行期间不被使用，但它们需要在迁移任务资源中定义为标准任务指令。"
+
+msgid "Migrate jobs run moving backup jobs data from one volume to another. It is done by reading the previously backed up data from volume and writing it to another volume in a different pool. The file catalog records associated with the original backup jobs are purged. All process runs without using file daemon."
+msgstr "迁移任务运行将备份任务数据从一个卷移动到另一个卷。这是通过从卷中读取先前备份的数据，然后将其写入到不同池中的另一个卷中来完成的。与原始备份任务相关的文件目录记录将被清除。所有过程都在不使用文件守护进程的情况下运行。"
+
+msgid "New migrate job"
+msgstr "新增迁移任务"
+
+msgid "Please select the criteria that will be used for selecting backup jobs to migrate."
+msgstr "请选择将用于选择要迁移的备份任务的标准。"
+
+msgid "The job needs media."
+msgstr "任务需要介质。"
+
+msgid "Please mount volume %volume or label a new one for storage: %storage, pool: %pool, media type: %mediatype."
+msgstr "请挂载卷 %volume 或为存储 %storage、池 %pool、介质类型 %mediatype 创建新标签。"
+
+msgid "Please mount volume %volume for storage: %storage, pool: %pool, media type: %mediatype."
+msgstr "请为存储 %storage、池 %pool、介质类型 %mediatype 挂载卷 %volume。"
+
+msgid "Please create a new volume for storage: %storage, pool: %pool, media type: %mediatype."
+msgstr "请为存储 %storage、池 %pool、介质类型 %mediatype 创建新卷。"
+
+msgid "Assign volumes from selected pool"
+msgstr "从所选池分配卷"
+
+msgid "This function enables re-assigning volumes from selected pool to this pool."
+msgstr "此功能可将所选池中的卷重新分配到此池。"
+
+msgid "Please select a pool from which you would like to assign volumes to this pool."
+msgstr "请选择要从中分配卷到此池的池。"
+
+msgid "Assigned volume count:"
+msgstr "已分配卷计数："
+
+msgid "Assign volumes"
+msgstr "分配卷"
+
+msgid "No volumes in the pool to assign."
+msgstr "池中没有要分配的卷。"
+
+msgid "The pool has not been renamed but it has been copied with the new name. Please note that if the original pool contained volumes, they have not been moved and they are still assigned to the original pool in the catalog database. To re-assign volumes from the original pool to this one please go to the MAIN MENU &#10148; Pools &#10148; [NEW POOL] &#10148; Tab: Actions and please use the 'Assign volumes' button. After re-assgning volumes you can delete the original pool."
+msgstr "池的名称未更名，但已复制并使用新名称。请注意，如果原始池包含卷，则卷未移动，并且仍然分配给目录数据库中的原始池。要将卷从原始池重新分配到此池，请转到主菜单 &#10148; Pools &#10148; [NEW POOL] &#10148; Tab: Actions，然后使用 'Assign volumes' 按钮。重新分配卷后，您可以删除原始池。"
+
+msgid "Add Connect directive"
+msgstr "添加 Connect 指令"
+
+msgid "Add Run directive"
+msgstr "添加 Run 指令"
+
+msgid "Add Runscript block"
+msgstr "添加 Runscript 块"
+
+msgid "Add Console directive"
+msgstr "添加 Console 指令"
+
+msgid "Add Stdout directive"
+msgstr "添加 Stdout 指令"
+
+msgid "Add Stderr directive"
+msgstr "添加 Stderr 指令"
+
+msgid "Add Syslog directive"
+msgstr "添加 Syslog 指令"
+
+msgid "Add Catalog directive"
+msgstr "添加 Catalog 指令"
+
+msgid "Add Director directive"
+msgstr "添加 Director 指令"
+
+msgid "Add File directive"
+msgstr "添加 File 指令"
+
+msgid "Add Append directive"
+msgstr "添加 Append 指令"
+
+msgid "Add Mail directive"
+msgstr "添加 Mail 指令"
+
+msgid "Add MailOnError directive"
+msgstr "添加 MailOnError 指令"
+
+msgid "Add MailOnSuccess directive"
+msgstr "添加 MailOnSuccess 指令"
+
+msgid "Add Operator directive"
+msgstr "添加 Operator 指令"
+
+msgid "Enable Bacula messages log window:"
+msgstr "启用 Bacula 消息日志窗口："
+
+msgid "The messages log window enables to review Bacula logs in one place available from almost every part on the interface. To collect logs is used the bconsole 'messages' command. The messages log window is displayed after clicking on the envelope icon at the top right side of the interface. This function is enabled by default. If enabled, it is available only for users with the Administrator role assigned."
+msgstr "消息日志窗口使得可以从界面上几乎的每个部分中查看 Bacula 日志。使用 bconsole 'messages' 命令收集日志。单击界面右上角的信封图标后，将显示消息日志窗口。此功能默认启用。如果启用，则仅对分配了管理员角色的用户可用。"
+
+msgid "Copy configuration from:"
+msgstr "从以下复制配置："
+
+msgid "API basic users"
+msgstr "API 基本用户"
+
+msgid "API OAuth2 clients"
+msgstr "API OAuth2 客户端"
+
+msgid "The API basic users are configured on the API hosts and they are used to access the API hosts. Changes introduced on this page are directly done on currently used API host. You can use the basic user credentials to connect API hosts to the Bacularis Web on the 'API hosts' tab. The basic user accounts are also possible to create directly in the panel of the Bacularis API."
+msgstr "API 基本用户在 API 主机上配置，并用于访问 API 主机。在此页面上引入的更改直接在当前使用的 API 主机上完成。您可以使用基本用户凭据将 API 主机连接到“API 主机”选项卡上的 Bacularis Web。还可以直接在 Bacularis API 的面板中创建基本用户帐户。"
+
+msgid "Add new API basic user"
+msgstr "添加新的 API 基本用户"
+
+msgid "API basic username:"
+msgstr "API基本用户名："
+
+msgid "API basic password:"
+msgstr "API基本密码:"
+
+msgid "Retype password:"
+msgstr "重新输入密码:"
+
+msgid "Add API basic user account"
+msgstr "添加API基本用户账户"
+
+msgid "Edit API basic user account"
+msgstr "编辑API基本用户账户"
+
+msgid "Password must be longer than 4 chars and not longer than 60 chars."
+msgstr "密码必须长于4个字符且不超过60个字符。"
+
+msgid "Please retype password."
+msgstr "请重新输入密码。"
+
+msgid "Invalid user. User may contain a-z A-Z 0-9 characters."
+msgstr "无效用户。用户只能包含a-z A-Z 0-9字符。"
+
+msgid "Dedicated Bconsole config"
+msgstr "专用Bconsole配置"
+
+msgid "Get existing basic user name:"
+msgstr "获取现有基本用户名:"
+
+msgid "Generate new password"
+msgstr "生成新密码"
+
+msgid "Show/hide password"
+msgstr "显示/隐藏密码"
+
+msgid "Advanced filters"
+msgstr "高级筛选器"
+
+msgid "Wrong time range."
+msgstr "时间范围错误。"
+
+msgid "From"
+msgstr "从"
+
+msgid "To"
+msgstr "到"
+
+msgid "This type of authentication is fully realized by Bacularis Web. To authenticate it uses the Bacularis Web login form."
+msgstr "此类型的身份验证完全由Bacularis Web实现。要进行身份验证，使用Bacularis Web登录表单。"
+
+msgid "This type of authentication is realized by Bacularis Web with using custom user credentials file. To authenticate it uses the Basic authentication."
+msgstr "此类型的身份验证通过使用自定义用户凭据文件由Bacularis Web实现。要进行身份验证，使用基本身份验证。"
+
+msgid "This type of authentication is realized by an external directory service. To authenticate it uses the Bacularis Web login form."
+msgstr "此类型的身份验证由外部目录服务实现。要进行身份验证，使用Bacularis Web登录表单。"
+
+msgid "Job log"
+msgstr "任务日志"
+
+msgid "New verify job"
+msgstr "新增验证任务"
+
+msgid "New verify job wizard"
+msgstr "验证任务向导"
+
+msgid "Verify jobs run checking the integrity of the backup jobs data and metadata and also can help improving the computer security. It is done by computing and comparing job metadata between three locations: volumes, catalog database and filesystem."
+msgstr "验证任务运行，检查备份任务数据和元数据的完整性，并且还可以帮助提高计算机安全性。通过在卷、目录数据库和文件系统之间计算和比较任务元数据来完成。"
+
+msgid "Step 2 - what to verify"
+msgstr "第2步 - 要验证什么"
+
+msgid "What would you like to verify"
+msgstr "您想要验证什么"
+
+msgid "Backup job data and metadata"
+msgstr "备份任务数据和元数据"
+
+msgid "File attributes and checksums on the filesystem"
+msgstr "文件系统上的文件属性和校验和"
+
+msgid "This option is for verifying job data and metadata (file attributes and checksums) on the volumes, in the catalog database and on the filesystem. It uses the job levels: VolumeToCatalog, Data or DiskToCatalog."
+msgstr "此选项用于在卷上、目录数据库中和文件系统上验证任务数据和元数据（文件属性和校验和）。它使用任务级别：VolumeToCatalog、Data或DiskToCatalog。"
+
+msgid "This option is for improving the computer security by saving the snapshot of the filesystem metadata in the catalog database and periodically check if something on the filesystem has changed. It uses the job levels: InitCatalog and Catalog."
+msgstr "此选项用于通过在目录数据库中保存文件系统元数据的快照并定期检查文件系统上的内容是否发生了变化来提高计算机安全性。它使用任务级别：InitCatalog和Catalog。"
+
+msgid "Choose a way you would like to verify job data"
+msgstr "选择您想要验证任务数据的方式"
+
+msgid "Verify if the job metadata written on the volume match the job metadata written in the catalog database. This way does not validate the data, only the metadata (file attributes and checksums). It is useful to check the integrity of the metadata between the volume and the catalog."
+msgstr "验证卷上写入的任务元数据是否与目录数据库中写入的任务元数据匹配。此方式不验证数据，只验证元数据（文件属性和校验和）。它用于检查卷和目录之间元数据的完整性。"
+
+msgid "Verify the integrity of the job data written on the volume and optionally compare the file sizes and checksums written on the volume with the file sizes and checksums stored in the catalog database. It is useful to check the data integrity on volumes to know if the job data has not been corrupted or modified. Optionally there is also possible to compare file sizes and checksums between the volumes and the catalog database."
+msgstr "验证卷上写入的任务数据的完整性，并可选择比较写入卷上的文件大小和校验和与目录数据库中存储的文件大小和校验和。它用于检查卷上的数据完整性，以了解任务数据是否已损坏或修改。还可以选择在卷和目录数据库之间比较文件大小和校验和。"
+
+msgid "Check changes in the file attributes on the filesystem since the last backup. This is useful for seeing what has changed on the filesystem since the last backup. The backup data file attributes from the catalog database are compared to the current file attributes on the filesystem."
+msgstr "检查自上次备份以来文件系统上文件属性的更改。这对于查看自上次备份以来文件系统发生了什么变化很有用。将目录数据库中的备份数据文件属性与文件系统上的当前文件属性进行比较。"
+
+msgid "Select a backup job you would like to verify"
+msgstr "选择您要验证的备份任务"
+
+msgid "Select a backup job to verify by job name. The verify job will always use the most recent backup with that name for verification."
+msgstr "通过任务名称选择要验证的备份任务。验证任务将始终使用具有该名称的最新备份进行验证。"
+
+msgid "Create a general purpose verify job. The verify job will verify the last job in the catalog so the verify job needs to be run just after finished backup job. If the verify job is started manually, you can select a jobid or a job name to verify in the run job window."
+msgstr "创建通用的验证任务。验证任务将验证目录中的最后一个任务，因此验证任务需要在完成备份任务后立即运行。如果手动启动验证任务，则可以在运行任务窗口中选择要验证的任务 ID 或任务名称。"
+
+msgid "What file attributes you would like to compare"
+msgstr "您想要比较哪些文件属性"
+
+msgid "Compare the inodes"
+msgstr "比较 i 节点"
+
+msgid "Compare the permission bits"
+msgstr "比较权限位"
+
+msgid "Compare the number of links"
+msgstr "比较链接数"
+
+msgid "Compare the user ID"
+msgstr "比较用户 ID"
+
+msgid "Compare the group ID"
+msgstr "比较组 ID"
+
+msgid "Compare the size"
+msgstr "比较大小"
+
+msgid "Compare the access time"
+msgstr "比较访问时间"
+
+msgid "Compare the modification time"
+msgstr "比较修改时间"
+
+msgid "Report file size decreases"
+msgstr "报告文件大小减少"
+
+msgid "Compare the MD5 signature"
+msgstr "比较MD5签名"
+
+msgid "Compare the SHA1 signature"
+msgstr "比较SHA1签名"
+
+msgid "Verify job directives"
+msgstr "验证任务指令"
+
+msgid "The client is used in all verify job levels to deal with file attributes and checksums sent from the Storage Daemon (for levels: VolumeToCatalog and Data) or read from the filesystem (for level: DiskToCatalog, InitCatalog and Catalog)."
+msgstr "客户端在所有验证任务级别中使用，以处理从存储守护程序发送的文件属性和校验和（对于级别：VolumeToCatalog和Data），或者从文件系统中读取的文件属性和校验和（对于级别：DiskToCatalog，InitCatalog和Catalog）。"
+
+msgid "The storage is used in the VolumeToCatalog and Data job levels to read the backup data and metadata from volumes and sent it to the File Daemon for verification."
+msgstr "存储用于在VolumeToCatalog和Data任务级别中从卷中读取备份数据和元数据，并将其发送到文件守护程序进行验证。"
+
+msgid "The pool is not used in the verify job but it should be defined as a standard Job directive."
+msgstr "池在验证任务中未使用，但应将其定义为标准任务指令。"
+
+msgid "What to verify"
+msgstr "要验证的内容"
+
+msgid "Job data"
+msgstr "任务数据"
+
+msgid "How to verify"
+msgstr "如何验证"
+
+msgid "Job to verify"
+msgstr "要验证的任务"
+
+msgid "File attributes to compare"
+msgstr "要比较的文件属性"
+
+msgid "Select a client on which system you want to check file attributes"
+msgstr "选择要检查文件属性的系统上的客户端"
+
+msgid "Click the button below to specify the paths in the filesystem to check the attributes:"
+msgstr "单击下面的按钮以指定要检查属性的文件系统中的路径："
+
+msgid "Add paths"
+msgstr "添加路径"
+
+msgid "Include paths"
+msgstr "包含路径"
+
+msgid "Exclude paths"
+msgstr "排除路径"
+
+msgid "Step 3 - how to verify"
+msgstr "步骤 3 - 如何验证"
+
+msgid "Apply path selection"
+msgstr "应用路径选择"
+
+msgid "Include paths:"
+msgstr "包含路径："
+
+msgid "Exclude paths:"
+msgstr "排除路径："
+
+msgid "Filesystem data"
+msgstr "文件系统数据"
+
+msgid "General purpose verify job"
+msgstr "通用目的的验证任务"
+
+msgid "flat browser"
+msgstr "平面浏览器"
+
+msgid "tree browser"
+msgstr "树形浏览器"
+
+msgid "Job age on the dashboard job graphs"
+msgstr "仪表板任务图表上的任务年龄"
+
+msgid "Set age for jobs to display the job graphs on the dashboard page. Setting zero means displaying the graphs for all jobs without limitation."
+msgstr "设置任务的年龄以在仪表板页面上显示任务图表。将值设为零表示在没有限制的情况下显示所有任务的图表。"
+
+msgid "last %time %unit"
+msgstr "最后 %time %unit"
+
+msgid "Job %jobname details"
+msgstr "%jobname 任务详情"
+
+msgid "Reports"
+msgstr "报告"
+
+msgid "Job history report"
+msgstr "历史任务报告"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "All jobs"
+msgstr "所有任务"
+
+msgid "All issues"
+msgstr "所有问题"
+
+msgid "Only errors"
+msgstr "仅错误"
+
+msgid "%count job(s) finished successfully."
+msgstr "%count 个任务成功完成。"
+
+msgid "Job report with errors and warnings"
+msgstr "带有错误和警告的任务报告"
+
+msgid "Job report with errors but not warnings"
+msgstr "仅带有错误而没有警告的任务报告"
+
+msgid "all X jobs finished successfully (no X means one job)"
+msgstr "所有 X 个任务都成功完成（不提供 X 表示一个任务）"
+
+msgid "X jobs with at least one job finished successfully"
+msgstr "至少有一个任务成功完成的 X 个任务"
+
+msgid "all X jobs finished with error or cancelled"
+msgstr "所有 X 个任务以错误或取消完成"
+
+msgid "All %count jobs finished with error or cancelled."
+msgstr "所有 %count 个任务以错误或取消完成。"
+
+msgid "%errors/%count jobs finished with error or cancelled."
+msgstr "%errors/%count 个任务以错误或取消完成。"
+
+msgid "No job"
+msgstr "没有任务"
+
+msgid "Display options"
+msgstr "显示选项"
+
+msgid "Features"
+msgstr "功能"
+
+msgid "Type bconsole command"
+msgstr "输入 bconsole 命令"
+
+msgid "API Panel"
+msgstr "API 面板"
+
+msgid "Go to resource"
+msgstr "转到资源"
+
+msgid "Pool: %pool, Vol. status: %volstatus"
+msgstr "池：%pool，卷状态：%volstatus"
+
+msgid "Pool volume status summary"
+msgstr "池卷状态摘要"
+
+msgid "New user"
+msgstr "新增用户向导"
+
+msgid "Step 1 - basic information about new user"
+msgstr "步骤 1 - 新用户的基本信息"
+
+msgid "New user wizard"
+msgstr "新增用户向导"
+
+msgid "This wizard enables you to create in easy way a new Bacularis user."
+msgstr "此向导使您可以轻松创建新的 Baculairs 用户。"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Step 2 - assign roles to user"
+msgstr "步骤 2 - 为用户分配角色"
+
+msgid "Assign roles"
+msgstr "分配角色"
+
+msgid "Roles are for giving users restricted access to defined Bacularis interface areas (pages). Each role have configured interface pages. Users with roles assigned are allowed to visit only the pages that are in the user roles."
+msgstr "角色用于为用户提供对定义的 Bacularis 接口区域（页面）的受限访问。每个角色都配置了接口页面。分配了角色的用户只允许访问用户角色中存在的页面。"
+
+msgid "Invalid role value."
+msgstr "无效的角色值。"
+
+msgid "Step 3 - assign API hosts"
+msgstr "步骤 3 - 分配 API 主机"
+
+msgid "Assign API hosts"
+msgstr "分配 API 主机"
+
+msgid "In this step you can create and assign API host accounts to users. These accounts are defined connections to the hosts with Bacula resources. You can have many API host connections to the same local or remote API host. You can assign one or more API hosts to one user."
+msgstr "在此步骤中，您可以创建并分配 API 主机帐户给用户。这些帐户是与具有 Bacula 资源的主机的连接。您可以将多个 API 主机连接分配给同一个本地或远程 API 主机。您可以将一个或多个 API 主机分配给一个用户。"
+
+msgid "Step 4 - access to Bacula resources"
+msgstr "步骤 4 - 访问 Bacula 资源"
+
+msgid "Bacula resources access"
+msgstr "Bacula 资源访问"
+
+msgid "Here you can restrict Bacula resources for the user. It is specially useful for case when the user should not have access to all Bacula resources or it should have access only to own resources (own jobs, ability to restore only own backups, run own backup jobs... etc.)"
+msgstr "在此处，您可以限制用户对 Bacula 资源的访问。这在用户不应该访问所有 Bacula 资源或仅应访问自己的资源（自己的任务、仅能恢复自己的备份、运行自己的备份任务等）的情况下特别有用。"
+
+msgid "Should this user have access to all Bacula resources or only to specific resources?"
+msgstr "此用户是否应具有对所有 Bacula 资源或仅对特定资源的访问权限？"
+
+msgid "Access to all shared API host resources (all jobs, all clients, all storages...etc.)"
+msgstr "访问所有共享 API 主机资源（所有任务、所有客户端、所有存储...等）"
+
+msgid "Access to selected resources only"
+msgstr "仅访问选定的资源"
+
+msgid "Access"
+msgstr "访问"
+
+msgid "Set access"
+msgstr "设置访问"
+
+msgid "Access to resources"
+msgstr "访问资源"
+
+msgid "Select a way to restrict Bacula resources available for the new user:"
+msgstr "选择限制新用户可用的 Bacula 资源的方式："
+
+msgid "Create a Console with selected job(s) and with the job dependent resources (FileSet, Client, Storage, Schedule...etc.). After creating assign this Console to the API host."
+msgstr "创建一个包含选定任务和任务相关资源（FileSet、Client、Storage、Schedule 等）的控制台。创建后将此控制台分配给 API 主机。"
+
+msgid "API host jobs:"
+msgstr "API 主机任务："
+
+msgid "Select already existing Console and assign it to the API host."
+msgstr "选择已存在的控制台并将其分配给 API 主机。"
+
+msgid "API host console:"
+msgstr "API 主机控制台:"
+
+msgid "Full access to all resources. The Console access is not used."
+msgstr "对所有资源的完全访问权限。不使用控制台访问权限。"
+
+msgid "Step 5 - summary"
+msgstr "第 5 步 - 摘要"
+
+msgid "Resource access"
+msgstr "资源访问"
+
+msgid "Console:"
+msgstr "控制台:"
+
+msgid "Create user"
+msgstr "创建用户"
+
+msgid "Restricted"
+msgstr "受限制的"
+
+msgid "Select existing API host account to create the new account:"
+msgstr "选择现有的 API 主机帐户以创建新帐户："
+
+msgid "Admin API host:"
+msgstr "管理员 API 主机:"
+
+msgid "New API host name:"
+msgstr "新 API 主机名称:"
+
+msgid "Access to all available resources"
+msgstr "访问所有可用资源"
+
+msgid "Client jobs"
+msgstr "客户端任务"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "After starting the job, go to the running job status"
+msgstr "启动任务后，转到运行中的任务状态"
+
+msgid "Account settings"
+msgstr "帐户设置"
+
+msgid "Enable 2FA"
+msgstr "启用 2FA"
+
+msgid "The two-factor authentication makes authentication process stronger by adding to traditional user/password login method one additional step (second factor). The second factor can use third-party authenticator application (e.g. a mobile or desktop app) that shows a generated and frequently changing code to use for authentication."
+msgstr "两因素认证通过在传统的用户/密码登录方法中添加一个附加步骤（第二因素）来加强认证过程。第二因素可以使用第三方认证器应用程序（例如移动应用或桌面应用），该应用程序显示用于认证的生成的且频繁更改的代码。"
+
+msgid "2FA settings"
+msgstr "2FA 设置"
+
+msgid "TOTP two-factor authentication"
+msgstr "TOTP 两因素认证"
+
+msgid "TOTP is an algorithm used for authentication with time-based one-time password. This authentication method generates time based one-time password. It uses an authenticator app like: Google Authenticator or other authentiactor apps."
+msgstr "TOTP 是用于基于时间的一次性密码认证的算法。此认证方法生成基于时间的一次性密码。它使用诸如 Google Authenticator 或其他认证器应用程序之类的认证器应用。"
+
+msgid "Step 1"
+msgstr "步骤 1"
+
+msgid "Scan in the authenticator app the QR code"
+msgstr "在认证器应用中扫描 QR 码"
+
+msgid "or alternatively type the code below manually to the authenticator app:"
+msgstr "或者手动输入下面的代码到认证器应用中："
+
+msgid "show"
+msgstr "显示"
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "Step 2"
+msgstr "步骤 2"
+
+msgid "In the field below please type currently displayed 6 digit code from the authenticator app"
+msgstr "请在下面的字段中输入来自认证器应用当前显示的 6 位代码"
+
+msgid "Authenticator code:"
+msgstr "认证器代码:"
+
+msgid "Invalid authentication code. Please try again."
+msgstr "认证码无效。请重试。"
+
+msgid "For used the HTTP Basic authentication the 2FA is not available. To use multi-factor authentication please switch Bacularis to other authentication method (ex. the local user authentication)."
+msgstr "对于使用 HTTP 基本身份验证，2FA 不可用。要使用多因素身份验证，请将 Bacularis 切换到其他身份验证方法（例如本地用户身份验证）。"
+
+msgid "Two-factor authentication"
+msgstr "两因素认证"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Raw output"
+msgstr "原始输出"
+
+msgid "Estimated job files"
+msgstr "估计的任务文件数"
+
+msgid "Estimated job bytes"
+msgstr "估计的任务字节数"
+
+msgid "Job size and files per day"
+msgstr "每天任务大小和文件数"
+
+msgid "Last successful job"
+msgstr "最后成功的任务"
+
+msgid "hour"
+msgstr "小时"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "minute"
+msgstr "分钟"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "%time ago"
+msgstr "%time 之前"
+
+msgid "Last failed job"
+msgstr "最后失败的任务"
+
+msgid "Rerun"
+msgstr "重新运行"
+
+msgid "All directives"
+msgstr "所有指令"
+
+msgid "Audit log"
+msgstr "审计日志"
+
+msgid "Enable audit log"
+msgstr "启用审计日志"
+
+msgid "Audit log enables to log and track all important user actions."
+msgstr "审计日志使得记录和跟踪所有重要用户操作成为可能。"
+
+msgid "Maximum number of log entries"
+msgstr "日志条目的最大数量"
+
+msgid "Maximum number of log lines stored in the audit log file."
+msgstr "存储在审计日志文件中的日志行的最大数量。"
+
+msgid "Log types"
+msgstr "日志类型"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "This category logs actions on Bacula configuration like saving, creating or removing Bacula resources."
+msgstr "此类别记录 Bacula 配置的操作，如保存、创建或删除 Bacula 资源。"
+
+msgid "This category logs application specific actions like adding, editing or removing users, roles, API hosts and others."
+msgstr "此类别记录应用程序特定的操作，如添加、编辑或删除用户、角色、API 主机等。"
+
+msgid "This category logs actions possible to run by users like running backup or restore and others."
+msgstr "此类别记录用户可以执行的操作，如运行备份或恢复等。"
+
+msgid "This category logs security issues like log in actions, log in failed or 2FA failed."
+msgstr "此类别记录安全问题，如登录操作、登录失败或两步验证失败。"
+
+msgid "IP address"
+msgstr "IP 地址"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Category"
+msgstr "类别"
+
+msgid "Log message"
+msgstr "日志消息"
+
+msgid "Log categories"
+msgstr "日志类别"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "Job over time report"
+msgstr "任务随时间报告"
+
+msgid "Field cannot be empty."
+msgstr "字段不能为空。"
+
+msgid "OS profile:"
+msgstr "操作系统配置文件："
+
+msgid "Select authentication method:"
+msgstr "选择身份验证方法："
+
+msgid "Admin username:"
+msgstr "管理员用户名："
+
+msgid "SSH key:"
+msgstr "SSH 密钥："
+
+msgid "Key passphrase (optional):"
+msgstr "密钥密码（可选）："
+
+msgid "Save as name (optional):"
+msgstr "保存为名称（可选）："
+
+msgid "Invalid value."
+msgstr "无效值。"
+
+msgid "OS profile name:"
+msgstr "操作系统配置文件名称："
+
+msgid "Add repository entry to remote host:"
+msgstr "向远程主机添加仓库条目："
+
+msgid "Repository type:"
+msgstr "仓库类型："
+
+msgid "Bacularis repository URL (or entry):"
+msgstr "Bacularis 仓库 URL（或条目）："
+
+msgid "Bacularis repository key URL:"
+msgstr "Bacularis 仓库密钥 URL："
+
+msgid "Use system repository for Bacula packages:"
+msgstr "使用系统仓库提供 Bacula 软件包："
+
+msgid "Bacula repository URL (or entry):"
+msgstr "Bacula 仓库 URL（或条目）："
+
+msgid "Bacula repository key URL:"
+msgstr "Bacula 仓库密钥 URL："
+
+msgid "Use HTTPS:"
+msgstr "使用 HTTPS："
+
+msgid "Bacularis admin user:"
+msgstr "Bacularis 管理员用户："
+
+msgid "Bacularis admin password:"
+msgstr "Bacularis 管理员密码："
+
+msgid "Bacularis start command:"
+msgstr "Bacularis 启动命令："
+
+msgid "Use sudo for commands:"
+msgstr "对命令使用 sudo："
+
+msgid "Sudo user:"
+msgstr "Sudo 用户："
+
+msgid "Bacularis installation command:"
+msgstr "Bacularis 安装命令："
+
+msgid "Bacularis upgrade command:"
+msgstr "Bacularis 升级命令："
+
+msgid "Bacularis removal command:"
+msgstr "Bacularis 卸载命令："
+
+msgid "Bacularis info command:"
+msgstr "Bacularis 信息命令："
+
+msgid "Bacularis enable command:"
+msgstr "Bacularis 启用命令："
+
+msgid "Bacularis pre-install command:"
+msgstr "Bacularis 安装前命令："
+
+msgid "Bacularis pre-upgrade command:"
+msgstr "Bacularis 升级前命令："
+
+msgid "Bacularis pre-remove command:"
+msgstr "Bacularis 卸载前命令："
+
+msgid "Bacularis post-install command:"
+msgstr "Bacularis 安装后命令："
+
+msgid "Bacularis post-upgrade command:"
+msgstr "Bacularis 升级后命令："
+
+msgid "Bacularis post-remove command:"
+msgstr "Bacularis 卸载后命令："
+
+msgid "Director installation command:"
+msgstr "Director 安装命令："
+
+msgid "Director upgrade command:"
+msgstr "Director 升级命令："
+
+msgid "Director removal command:"
+msgstr "Director 卸载命令："
+
+msgid "Director info command:"
+msgstr "Director 信息命令："
+
+msgid "Director enable command:"
+msgstr "Director 启用命令："
+
+msgid "Director pre-install command:"
+msgstr "Director 安装前命令："
+
+msgid "Director pre-upgrade command:"
+msgstr "Director 升级前命令："
+
+msgid "Director pre-remove command:"
+msgstr "Director 卸载前命令："
+
+msgid "Director post-install command:"
+msgstr "Director 安装后命令："
+
+msgid "Director post-upgrade command:"
+msgstr "Director 升级后命令："
+
+msgid "Director post-remove command:"
+msgstr "Director 卸载后命令："
+
+msgid "Storage installation command:"
+msgstr "存储安装命令："
+
+msgid "Storage upgrade command:"
+msgstr "存储升级命令："
+
+msgid "Storage removal command:"
+msgstr "存储卸载命令："
+
+msgid "Storage info command:"
+msgstr "存储信息命令："
+
+msgid "Storage enable command:"
+msgstr "存储启用命令："
+
+msgid "Storage pre-install command:"
+msgstr "存储安装前命令："
+
+msgid "Storage pre-upgrade command:"
+msgstr "存储升级前命令："
+
+msgid "Storage pre-remove command:"
+msgstr "存储卸载前命令："
+
+msgid "Storage post-install command:"
+msgstr "存储安装后命令："
+
+msgid "Storage post-upgrade command:"
+msgstr "存储升级后命令："
+
+msgid "Storage post-remove command:"
+msgstr "存储卸载后命令："
+
+msgid "Client installation command:"
+msgstr "客户端安装命令："
+
+msgid "Client upgrade command:"
+msgstr "客户端升级命令："
+
+msgid "Client removal command:"
+msgstr "客户端卸载命令："
+
+msgid "Client info command:"
+msgstr "客户端信息命令："
+
+msgid "Client enable command:"
+msgstr "客户端启用命令："
+
+msgid "Client pre-install command:"
+msgstr "客户端安装前命令："
+
+msgid "Client pre-upgrade command:"
+msgstr "客户端升级前命令："
+
+msgid "Client pre-remove command:"
+msgstr "客户端卸载前命令："
+
+msgid "Client post-install command:"
+msgstr "客户端安装后命令："
+
+msgid "Client post-upgrade command:"
+msgstr "客户端升级后命令："
+
+msgid "Client post-remove command:"
+msgstr "客户端卸载后命令："
+
+msgid "Bconsole installation command:"
+msgstr "Bconsole 安装命令："
+
+msgid "Bconsole upgrade command:"
+msgstr "Bconsole 升级命令："
+
+msgid "Bconsole removal command:"
+msgstr "Bconsole 卸载命令："
+
+msgid "Bconsole info command:"
+msgstr "Bconsole 信息命令："
+
+msgid "Bconsole pre-install command:"
+msgstr "Bconsole 安装前命令："
+
+msgid "Bconsole pre-upgrade command:"
+msgstr "Bconsole 升级前命令："
+
+msgid "Bconsole pre-remove command:"
+msgstr "Bconsole 卸载前命令："
+
+msgid "Bconsole post-install command:"
+msgstr "Bconsole 安装后命令："
+
+msgid "Bconsole post-upgrade command:"
+msgstr "Bconsole 升级后命令："
+
+msgid "Bconsole post-remove command:"
+msgstr "Bconsole 卸载后命令："
+
+msgid "Working directory:"
+msgstr "工作目录："
+
+msgid "Bdirjson binary file path:"
+msgstr "Bdirjson 二进制文件路径："
+
+msgid "Main Director config file path:"
+msgstr "主 Director 配置文件路径："
+
+msgid "Bsdjson binary file path:"
+msgstr "Bsdjson 二进制文件路径："
+
+msgid "Main Storage config file path:"
+msgstr "主存储配置文件路径："
+
+msgid "Bfdjson binary file path:"
+msgstr "Bfdjson 二进制文件路径："
+
+msgid "Main Client config file path:"
+msgstr "主客户端配置文件路径："
+
+msgid "Bbconsjson binary file path:"
+msgstr "Bbconsjson 二进制文件路径："
+
+msgid "Main Bconsole config file path:"
+msgstr "主 Bconsole 配置文件路径："
+
+msgid "Database path (SQLite only):"
+msgstr "数据库路径（仅限 SQLite）："
+
+msgid "Director start command:"
+msgstr "Director 启动命令："
+
+msgid "Director stop command:"
+msgstr "Director 停止命令："
+
+msgid "Director restart command:"
+msgstr "Director 重启命令："
+
+msgid "Storage start command:"
+msgstr "存储启动命令："
+
+msgid "Storage stop command:"
+msgstr "存储停止命令："
+
+msgid "Storage restart command:"
+msgstr "存储重启命令："
+
+msgid "Client start command:"
+msgstr "客户端启动命令："
+
+msgid "Client stop command:"
+msgstr "客户端停止命令："
+
+msgid "Client restart command:"
+msgstr "客户端重启命令："
+
+msgid "Hostname (accepts wildcards like * or ?, for example *.host.com or 192.168.3.?):"
+msgstr "主机名（支持 * 或 ? 等通配符，例如 *.host.com 或 192.168.3.？）："
+
+msgid "SSH key name:"
+msgstr "SSH 密钥名称："
+
+msgid "Private SSH key content:"
+msgstr "私有 SSH 密钥内容："
+
+msgid "Deployment"
+msgstr "部署"
+
+msgid "Hosts"
+msgstr "主机"
+
+msgid "OS profiles"
+msgstr "操作系统配置"
+
+msgid "SSH configs"
+msgstr "SSH 配置"
+
+msgid "SSH keys"
+msgstr "SSH 密钥"
+
+msgid "Deploy API host"
+msgstr "部署 API 主机"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Uninstall"
+msgstr "卸载"
+
+msgid "Installing %component"
+msgstr "正在安装 %component"
+
+msgid "Install Bacula components on API host"
+msgstr "在 API 主机上安装 Bacula 组件"
+
+msgid "Upgrading %component"
+msgstr "正在升级 %component"
+
+msgid "Upgrade Bacula components on API host"
+msgstr "在 API 主机上升级 Bacula 组件"
+
+msgid "Uninstalling %component"
+msgstr "正在卸载 %component"
+
+msgid "Uninstall Bacula components on API host"
+msgstr "在 API 主机上卸载 Bacula 组件"
+
+msgid "getting package information..."
+msgstr "获取软件包信息..."
+
+msgid "installed"
+msgstr "已安装"
+
+msgid "not installed"
+msgstr "未安装"
+
+msgid "Finish."
+msgstr "完成。"
+
+msgid "Use username and password"
+msgstr "使用用户名和密码"
+
+msgid "Use username and SSH key"
+msgstr "使用用户名和 SSH 密钥"
+
+msgid "Use username and SSH key from SSH config for host"
+msgstr "使用主机的 SSH 配置中的用户名和 SSH 密钥"
+
+msgid "Deploy"
+msgstr "部署"
+
+msgid "In this window you can install Bacula components on selected API host. Please select components that you would like to install and next click the install button."
+msgstr "在此窗口中，您可以在所选的 API 主机上安装 Bacula 组件。请选择您想要安装的组件，然后单击安装按钮。"
+
+msgid "Components"
+msgstr "组件"
+
+msgid "Install options"
+msgstr "安装选项"
+
+msgid "Add new component to current Director (for client and storage only)"
+msgstr "向当前 Director 添加新组件（仅限客户端和存储）"
+
+msgid "Add new OS profile"
+msgstr "添加新操作系统配置"
+
+msgid "Repository type"
+msgstr "仓库类型"
+
+msgid "Pre-defined"
+msgstr "预定义"
+
+msgid "Add OS profile"
+msgstr "添加操作系统配置"
+
+msgid "Edit OS profile"
+msgstr "编辑操作系统配置"
+
+msgid "OS profile with the given name already exists."
+msgstr "已存在具有给定名称的操作系统配置。"
+
+msgid "Repositories"
+msgstr "软件仓库"
+
+msgid "Here you can define repository to install Bacularis on remote host and also Bacula repository if it is different than default system repository. The repositories are added to remote hosts during API host deployment."
+msgstr "在这里，您可以定义软件仓库以在远程主机上安装 Bacularis，如果 Bacula 仓库与默认系统仓库不同，则还可以定义 Bacula 仓库。 在部署 API 主机期间，将这些软件仓库添加到远程主机。"
+
+msgid "Bacularis API access"
+msgstr "Bacularis API 访问"
+
+msgid "Bacularis API settings"
+msgstr "Bacularis API 设置"
+
+msgid "All of the following settings are added to each new remotely installed Bacularis API that uses this OS profile."
+msgstr "以下所有设置都会添加到使用此操作系统配置的每个新的远程安装的 Bacularis API 中。"
+
+msgid "Package management"
+msgstr "软件包管理"
+
+msgid "Bacularis commands"
+msgstr "Bacularis 命令"
+
+msgid "Advanced settings"
+msgstr "高级设置"
+
+msgid "Director commands"
+msgstr "Director 命令"
+
+msgid "Storage commands"
+msgstr "存储命令"
+
+msgid "Client commands"
+msgstr "客户端命令"
+
+msgid "Bconsole commands"
+msgstr "Bconsole 命令"
+
+msgid "Catalog"
+msgstr "目录"
+
+msgid "NOTE: This is predefined OS profile that cannot be modified nor removed."
+msgstr "注意：这是预定义的操作系统配置，无法修改或删除。"
+
+msgid "Add new SSH config"
+msgstr "添加新的 SSH 配置"
+
+msgid "Hostname"
+msgstr "主机名"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "SSH key"
+msgstr "SSH 密钥"
+
+msgid "Add SSH config"
+msgstr "添加 SSH 配置"
+
+msgid "Edit SSH config"
+msgstr "编辑 SSH 配置"
+
+msgid "SSH config with the given name already exists."
+msgstr "具有给定名称的 SSH 配置已存在。"
+
+msgid "Add new SSH key"
+msgstr "添加新的 SSH 密钥"
+
+msgid "Key name"
+msgstr "密钥名称"
+
+msgid "Fingerprint"
+msgstr "指纹"
+
+msgid "Add SSH key"
+msgstr "添加 SSH 密钥"
+
+msgid "Add package repository"
+msgstr "添加软件包仓库"
+
+msgid "Add SUDO settings"
+msgstr "添加 SUDO 设置"
+
+msgid "Pre-install Bacularis command"
+msgstr "预安装 Bacularis 命令"
+
+msgid "Install Bacularis"
+msgstr "安装 Bacularis"
+
+msgid "Post-install Bacularis command"
+msgstr "安装后 Bacularis 命令"
+
+msgid "Configure Bacularis"
+msgstr "配置 Bacularis"
+
+msgid "Create Bacularis user"
+msgstr "创建 Bacularis 用户"
+
+msgid "Set Bacularis password"
+msgstr "设置 Bacularis 密码"
+
+msgid "Start Bacularis"
+msgstr "启动 Bacularis"
+
+msgid "API access link"
+msgstr "API 访问链接"
+
+msgid "Step"
+msgstr "步骤"
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "IP address/hostname"
+msgstr "IP 地址/主机名"
+
+msgid "Access method"
+msgstr "访问方法"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "open"
+msgstr "打开"
+
+msgid "Keep custom table settings:"
+msgstr "保留自定义表设置："
+
+msgid "No time limit (persistent settings)"
+msgstr "无时间限制（持久性设置）"
+
+msgid "Until end of web browser session"
+msgstr "直到 Web 浏览器会话结束"
+
+msgid "For specific time"
+msgstr "指定时间"
+
+msgid "Keep table settings for"
+msgstr "保留表设置："
+
+msgid "The value must be positive integer or zero."
+msgstr "该值必须是正整数或零。"
+
+msgid "Set time for which table settings will be preserved. Setting 0 (zero) is equivalent to no time limit option."
+msgstr "设置表设置将被保留的时间。设置为 0（零）相当于无时间限制选项。"
+
+msgid "TLS/SSL encryption"
+msgstr "TLS/SSL 加密"
+
+msgid "No encryption"
+msgstr "无加密"
+
+msgid "First vol."
+msgstr "第一个卷。"
+
+msgid "Vol. count"
+msgstr "卷数"
+
+msgid "Virtual Full backup job wizard"
+msgstr "虚拟完整备份任务向导"
+
+msgid "This wizard enables you to easily set up a synthetic backup (Virtual Full)."
+msgstr "此向导使您可以轻松设置合成备份（虚拟完整备份）。"
+
+msgid "The Virtual Full backup consolidates the previous full backup, recent differential backup, and subsequent incremental backups into a new full backup. This new full backup becomes the most recent full for the next incremental/differential backups. The Virtual Full backup is realized without using the Bacula client."
+msgstr "虚拟完整备份将以前的完整备份、最近的差异备份和随后的增量备份合并为一个新的完整备份。这个新的完整备份成为下一个增量/差异备份的最新完整备份。虚拟完整备份是在不使用 Bacula 客户端的情况下实现的。"
+
+
+msgid "You can select an existing backup or create a new backup job that will be able to run Virtual Full job level."
+msgstr "您可以选择现有的备份或创建一个新的备份任务，以便能够运行虚拟完整任务级别。"
+
+msgid "Modify existing backup job to support Virtual Full."
+msgstr "修改现有备份任务以支持虚拟完整。"
+
+msgid "Create a new backup job with the Virtual Full capability."
+msgstr "创建一个具有虚拟完整功能的新备份任务。"
+
+msgid "Step 3 - where you want to store data"
+msgstr "步骤 3 - 您希望存储数据的位置"
+
+msgid "Virtual Full Pool"
+msgstr "虚拟完整备份池"
+
+msgid "Storage to write Virtual Full"
+msgstr "用于写入虚拟完整备份的存储"
+
+msgid "Add new Virtual Full Pool"
+msgstr "添加新的虚拟完整备份池"
+
+msgid "Select the pool and storage that will write Virtual Full."
+msgstr "选择将写入虚拟完整备份的池和存储。"
+
+msgid "Virtual Full Type"
+msgstr "虚拟完整备份类型"
+
+msgid "Step 4 - how would you like to use Virtual Full"
+msgstr "第4步 - 您想如何使用虚拟完整备份"
+
+msgid "What kind of Virtual Full backup do you want to create:"
+msgstr "您想创建什么类型的虚拟完整备份："
+
+msgid "Standard Virtual Full backup"
+msgstr "标准虚拟完整备份"
+
+msgid "create a new full backup by consolidating the last full backup and subsequent incremental/diifferential backups. Processed backups are preserved."
+msgstr "通过合并上一个完整备份和后续的增量/差异备份来创建新的完整备份。已处理的备份会被保留。"
+
+msgid "Progressive Virtual Full backup"
+msgstr "渐进式虚拟完整备份"
+
+msgid "This backup consolidates incremental and differential backups but keeps constant number of backups not consolidated. Optionally removes old already consolidated jobs. In this setting we have one full backup and some incrementals/differential that are dynamically consolidated in time."
+msgstr "该备份合并了增量和差异备份，但保留了未合并的恒定数量的备份。可选择删除旧的已经合并的任务。在这种设置下，我们有一个完整的备份和一些增量/差异备份，它们在时间上动态地合并。"
+
+msgid "Last 90 days"
+msgstr "最近90天"
+
+msgid "New virtual full job"
+msgstr "新增虚拟完整备份任务"
+
+msgid "Reset zoom"
+msgstr "重置缩放"
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "Range of days:"
+msgstr "天数范围："
+
+msgid "Jobs in range:"
+msgstr "范围内的任务："
+
+msgid "Backups to keep:"
+msgstr "要保留的备份："
+
+msgid "Sum of job bytes in range:"
+msgstr "范围内的任务字节总和："
+
+msgid "Sum of job files in range:"
+msgstr "范围内的任务文件总数："
+
+msgid "Jobs out of range on the right:"
+msgstr "右侧范围外的任务："
+
+msgid "Would you like to delete old jobs that are consolidated during a Virtual Full?"
+msgstr "您是否要删除在虚拟完整备份期间合并的旧任务？"
+
+msgid "Schedule setting"
+msgstr "调度设置"
+
+msgid "When would you like to run the job?"
+msgstr "您想何时运行任务？"
+
+msgid "Create a basic schedule"
+msgstr "创建基本调度"
+
+msgid "Normal backup"
+msgstr "常规备份"
+
+msgid "Run level"
+msgstr "运行级别"
+
+msgid "Run daily"
+msgstr "每日运行"
+
+msgid "Virtual Full backup"
+msgstr "虚拟完整备份"
+
+msgid "Run on"
+msgstr "运行于"
+
+msgid "Select schedule"
+msgstr "选择调度"
+
+msgid "No schedule. I will run Virtual Full manually"
+msgstr "没有调度。我将手动运行虚拟完整备份"
+
+msgid "New Job Name"
+msgstr "新任务名称"
+
+msgid "Save job"
+msgstr "保存任务"
+
+msgid "Existing Job Name"
+msgstr "现有任务名称"
+
+msgid "Prepare resources for a new backup job."
+msgstr "为新的备份任务准备资源。"
+
+msgid "Quick edit"
+msgstr "快速编辑"
+
+msgid "Prev job"
+msgstr "上一个任务"
+
+msgid "Next job"
+msgstr "下一个任务"
+
+msgid "Volume job list"
+msgstr "卷任务列表"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Latest"
+msgstr "最新"
+
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+msgid "Save log in file"
+msgstr "将日志保存到文件中"
+
+msgid "Job summary"
+msgstr "任务摘要"
+
+msgid "Host groups"
+msgstr "主机组"
+
+msgid "API host method"
+msgstr "API 主机方法"
+
+msgid "API host groups"
+msgstr "API 主机组"
+
+msgid "Add new API host group"
+msgstr "添加新的 API 主机组"
+
+msgid "API group name"
+msgstr "API 组名称"
+
+msgid "Edit API host group"
+msgstr "编辑 API 主机组"
+
+msgid "Add API host group"
+msgstr "添加 API 主机组"
+
+msgid "API host group:"
+msgstr "API 主机组："
+
+msgid "API host group with the given name already exists."
+msgstr "具有给定名称的 API 主机组已存在。"
+
+msgid "API host groups:"
+msgstr "API 主机组："
+
+msgid "Use API hosts"
+msgstr "使用 API 主机"
+
+msgid "Use API host groups"
+msgstr "使用 API 主机组"
+
+msgid "The API host groups are named sets of API hosts which can be used to assign to users instead of assigning single API hosts. The API group function is more flexible solution than assigning API hosts directly and may be useful in environments where users have access to more than one API host."
+msgstr "API 主机组是命名的 API 主机集合，可以用来分配给用户，而不是直接分配单个 API 主机。API 组功能比直接分配 API 主机更灵活，并且在用户可以访问多个 API 主机的环境中可能非常有用。"
+
+msgid "Assign to API host groups:"
+msgstr "分配到 API 主机组："
+
+msgid "Bacula Console ACL"
+msgstr "Bacula 控制台 ACL"
+
+msgid "Assigned"
+msgstr "已分配"
+
+msgid "unassign"
+msgstr "取消分配"
+
+msgid "Set API host access to resources"
+msgstr "设置 API 主机对资源的访问权限"
+
+msgid "Set user API host access to resources"
+msgstr "设置用户 API 主机对资源的访问权限"
+
+msgid "Set API host group access to resources"
+msgstr "设置 API 主机组对资源的访问权限"
+
+msgid "All pools"
+msgstr "所有池"
+
+msgid "Default API host groups for imported users:"
+msgstr "导入用户的默认 API 主机组："
+
+msgid "Director resource permissions"
+msgstr "主管资源权限"
+
+msgid "Storage resource permissions"
+msgstr "存储资源权限"
+
+msgid "Client resource permissions"
+msgstr "客户端资源权限"
+
+msgid "Bconsole resource permissions"
+msgstr "Bconsole 资源权限"
+
+msgid "Resource"
+msgstr "资源"
+
+msgid "Read-Only"
+msgstr "只读"
+
+msgid "Read-Write"
+msgstr "读写"
+
+msgid "read only"
+msgstr "只读"
+
+msgid "read write"
+msgstr "读写"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "no access"
+msgstr "无访问权限"
+
+msgid "All read-only"
+msgstr "全部只读"
+
+msgid "All read-write"
+msgstr "全部读写"
+
+msgid "All no access"
+msgstr "全部无访问权限"
+
+msgid "Resource permissions"
+msgstr "资源权限"
+
+msgid "By default, all resources have read-write permissions."
+msgstr "默认情况下，所有资源都具有读写权限。"
